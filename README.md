@@ -16,3 +16,10 @@ This project was an opportunity to apply my database and SQL skills to parse a d
 - CSV file Inventory -  A single table will all inventory data data to be parsed into multiple relations using SQL.
 - MySQL - SQL dialect to be used in creation and management of database
 - Google Cloud Platform - Database hosting platform
+
+## Datasets
+- [Branded Foods - October 2020](https://fdc.nal.usda.gov/download-datasets.html): Foods with associated brand names
+    - branded_food.csv
+    - food.csv
+- [FNDDS 2017-2018 - October 2020](https://fdc.nal.usda.gov/download-datasets.html): Generic Foods (produce, dairy, meat)
+    - food.csv
