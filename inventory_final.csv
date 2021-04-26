@@ -1,0 +1,1005 @@
+productID,UPC,productName,quantityNeeded,quantityOnHand,minimumQuantity,brandName,category,storageLocation,store,addressLine1,addressLine2,city,stateAbbrev,zipCode
+727914,2025988,RECIPE CLASSICS CHOPPED SPINACH,2,0,1,BEST CHOICE,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+548394,3032802,SWEETENED CORN & OAT CEREAL,3,3,1,CAP'N CRUNCH,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+957539,4031918,RED CURRY POWDER,3,2,2,"ACH Food Companies, Inc.",Herbs & Spices,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+563600,4783830,MAPLE HAM SPREAD,2,2,1,UNDERWOOD,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+991513,4909806,DIET COLA,3,1,2,Coca-Cola USA Operations,Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+732072,11170761,MILD TIKKA MASALA MARINADE SPICE PASTE,3,2,2,PATAK'S,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+803635,16701458,BUTTER COOKIES,3,2,2,BAUDUCCO,Cookies & Biscuits,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+901484,20736132,GLUTEN FREE RICE PASTA & WHITE CHEDDAR CHEESE,2,2,1,NOT A BRANDED ITEM,Pasta Dinners,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+901430,20739485,"BLACK CHERRY LOWFAT YOGURT, BLACK CHERRY",1,2,1,NOT A BRANDED ITEM,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1024549,20740085,"BARBECUE FLAVORED POTATO CHIPS, BARBECUE",2,1,1,NOT A BRANDED ITEM,"Chips, Pretzels & Snacks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+945196,20743864,ORGANIC INDIAN BASMATI WHITE RICE,2,1,1,Learning Horizons,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1023443,20744977,"CLUSTERS OF OATS & HONEY CEREAL, CRUNCHY HONEY ROASTED",3,2,2,NOT A BRANDED ITEM,Cereal,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+328841,333831015,"Cheese, cottage, lowfat, 2% milkfat",3,2,2,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173418,333831017,"Cheese, cream",1,1,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+325036,333831032,"Cheese, parmesan, grated",2,0,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+323444,333831036,"Cheese, ricotta, whole milk",2,0,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171257,333831056,"Cream, sour, cultured",2,2,2,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170869,333831074,"Sour cream, imitation, cultured",1,1,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+321359,333831079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",2,1,1,generic,Dairy,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+170874,333831088,"Milk, buttermilk, fluid, cultured, lowfat",2,1,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170881,333831104,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",1,1,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171278,333831106,"Milk, goat, fluid, with added vitamin D",2,2,2,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171284,333831116,"Yogurt, plain, whole milk",2,1,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170887,333831118,"Yogurt, plain, skim milk",2,2,2,generic,Dairy,Refrigerator,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+172189,333831138,"Egg, duck, whole, fresh, raw",2,2,2,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173455,333831215,"Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D",2,2,2,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172223,333831228,"Cheese, fresh, queso fresco",2,1,1,generic,Dairy,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+170903,333831287,"Yogurt, Greek, plain, lowfat",3,3,3,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171326,333832025,"Spices, nutmeg, ground",2,1,1,generic,Herbs & Spices,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171332,333832035,"Spices, pumpkin pie spice",2,1,1,generic,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+170935,333832038,"Spices, sage, ground",2,0,1,generic,Herbs & Spices,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172248,333833013,"Babyfood, meat, chicken, junior",3,3,3,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172269,333833082,"Babyfood, dinner, turkey and rice, strained",2,0,1,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170950,333833145,"Babyfood, fruit, applesauce and cherries, junior",2,0,1,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170956,333833163,"Babyfood, fruit, bananas with apples and pears, strained",2,1,1,generic,Baby Food,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171352,333833168,"Babyfood, juice, apple and peach",3,3,3,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171358,333833181,"Babyfood, cereal, barley, dry fortified",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170966,333833187,"Babyfood, cereal, mixed, with applesauce and bananas, strained",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170978,333833222,"Babyfood, cherry cobbler, junior",2,0,1,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170982,333833233,"Babyfood, dessert, fruit pudding, pineapple, strained",2,0,1,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172284,333833283,"Babyfood, vegetables, garden vegetable, strained",2,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173561,333833950,"Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not reconstituted",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171388,333833964,"Babyfood, fortified cereal bar, fruit filling",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170994,333833986,"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Newborn, ready-to-feed",2,2,2,generic,Baby Food,Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+170998,333833994,"Babyfood, fruit, banana and strawberry, junior",2,2,2,generic,Baby Food,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171007,333834022,"Salad dressing, russian dressing, low calorie",3,2,2,generic,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171409,333834030,"Sandwich spread, with chopped pickle, regular, unspecified oils",3,3,3,generic,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171410,333834042,"Oil, peanut, salad or cooking",2,1,1,generic,Vegetable & Cooking Oils,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171019,333834114,"Salad dressing, italian dressing, commercial, regular",2,1,1,generic,Salad Dressing & Mayonnaise,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171430,333834679,"Oil, PAM cooking spray, original",2,2,2,generic,Vegetable & Cooking Oils,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+173630,333835103,"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+172412,333835147,"Goose, domesticated, meat and skin, cooked, roasted",2,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171081,333835165,"Turkey, whole, meat and skin, raw",1,1,1,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+171109,333835310,"Chicken, cornish game hens, meat only, cooked, roasted",2,1,1,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+174498,333835677,"Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",2,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172869,333835705,"Turkey, whole, meat only, with added solution, roasted",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171131,333835728,"Turkey, thigh, from whole bird, meat only, with added solution, roasted",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171137,333835743,"Turkey, retail parts, thigh, meat and skin, cooked, roasted",2,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171151,333836027,"Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve",2,2,2,generic,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171164,333836072,"Soup, vegetable with beef broth, canned, condensed",1,1,1,generic,Canned Soup,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174523,333836150,"Sauce, barbecue",3,2,2,generic,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174529,333836176,"Sauce, oyster, ready-to-serve",2,0,1,generic,"Oriental, Mexican & Ethnic Sauces",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174531,333836179,"Sauce, fish, ready-to-serve",2,1,1,generic,Sauces/Spreads/Dips/Condiments,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+174539,333836230,"Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk",2,1,1,generic,Canned Soup,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+172922,333836475,"Soup, beef broth or bouillon, powder, prepared with water",1,1,1,generic,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174569,333836498,"Soup, tomato, dry, mix, prepared with water",1,1,1,generic,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171177,333836583,"Soup, ramen noodle, any flavor, dry",1,1,1,generic,Canned Soup,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+171583,333836700,"Soup, vegetable broth, ready to serve",2,1,1,generic,Canned Soup,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+172012,333837007,"Bologna, beef",2,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+332397,333837028,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",3,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173866,333837031,Ham salad spread,3,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172942,333837083,"Sausage, Vienna, canned, chicken, beef, pork",2,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171652,333838073,"Cereals ready-to-eat, POST, GOLDEN CRISP",1,1,1,generic,Cereal,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173000,333838500,"Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS",2,1,1,generic,Cereal,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+173015,333838633,"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches",2,2,2,generic,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+171715,333839060,"Carambola, (starfruit), raw",3,3,3,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+325287,333839123,"Grapefruit juice, white, canned or bottled, unsweetened",3,2,2,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169925,333839221,"Tangerine juice, raw",2,1,1,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+169118,333839252,"Pears, raw",3,3,3,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+169134,333839286,"Pomegranates, raw",2,2,2,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+167781,333839426,Candied fruit,3,2,2,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167792,333839452,Orange Pineapple Juice Blend,2,1,1,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+638834,1121307374,"SPAGHETTI, ENRICHED MACARONI PRODUCT, TRADITIONAL",3,2,2,SPARTAN,Pasta by Shape & Type,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+1049735,2060140761,"BEEF CULINARY STOCK, BEEF",1,1,1,Rafael Padilla & Cia S. En C.,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+656954,2114012854,"SEASONING MIX, TACO",1,1,1,"Winn-Dixie Stores, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+703262,2362708016,"ORIGINAL HOT SAUCE, ORIGINAL",3,1,2,Festive Finer Foods,"Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+575970,2362753177,CALIFORNIA BLEND,2,1,1,A AVENUE,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168221,3338310007,"Pork, fresh, separable fat, cooked",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+168223,3338310009,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted",3,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167847,3338310078,"Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168312,3338310218,"Pork, fresh, loin, tenderloin, separable lean and fat, raw",1,1,1,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169160,3338310905,"Pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+170381,3338311096,"Broccoli raab, raw",3,2,2,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+170396,3338311128,"Carrots, canned, regular pack, drained solids",1,1,1,generic,Canned Vegetables,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169991,3338311147,"Chard, swiss, raw",3,2,2,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+170402,3338311149,"Chayote, fruit, raw",2,2,2,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+169996,3338311164,"Collards, frozen, chopped, cooked, boiled, drained, without salt",1,1,1,generic,Frozen Vegetables,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169226,3338311207,"Dandelion greens, raw",1,1,1,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+168413,3338311214,"Escarole, cooked, boiled, drained, no salt added",2,1,1,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+169251,3338311260,"Mushrooms, white, raw",2,1,1,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+170418,3338311303,"Peas, edible-podded, frozen, cooked, boiled, drained, without salt",3,3,3,generic,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170419,3338311304,"Peas, green, raw",3,2,2,generic,Produce,Refrigerator,Blooming Junction,35105 NW Zion Church Rd,null,Cornelius,OR,97113
+170433,3338311351,"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",2,1,1,generic,Canned Fruit,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+168483,3338311508,"Sweet potato, cooked, baked in skin, flesh, without salt",2,0,1,generic,Pre-Packaged Fruit & Vegetables,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170458,3338311540,"Tomato juice, canned, with salt added",1,1,1,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+170490,3338311644,"Squash, winter, all varieties, cooked, baked, without salt",2,1,1,generic,Pre-Packaged Fruit & Vegetables,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+170491,3338311655,"Carrot juice, canned",1,1,1,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+170563,3338312037,"Seeds, sunflower seed kernels, dry roasted, without salt",3,2,2,generic,Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170567,3338312061,"Nuts, almonds",1,1,1,generic,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170182,3338312142,"Nuts, pecans",2,2,2,generic,Snacks,Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+168598,3338312632,"Nuts, macadamia nuts, dry roasted, with salt added",2,0,1,generic,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168669,3338313812,"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, braised",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+168695,3338313865,"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, broiled",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+168718,3338313912,"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, grilled",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169575,3338314013,"Alcoholic beverage, beer, light, low carb",1,1,1,generic,Alcohol,Liquor Cabinet,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174108,3338314021,"Beverages,  Energy drink, Citrus",1,1,1,generic,Beverages,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174815,3338314037,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",1,1,1,generic,Alcohol,Liquor Cabinet,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173170,3338314044,"Beverages, SLIMFAST, Meal replacement,  High Protein Shake, Ready-To-Drink, 3-2-1 plan",1,1,1,generic,Beverages,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173171,3338314045,"Beverages, UNILEVER, SLIMFAST, meal replacement, regular, ready-to-drink,  3-2-1 Plan",2,2,2,generic,Beverages,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+173175,3338314056,"Beverages, Acai berry drink, fortified",1,1,1,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173181,3338314067,"Beverages, Protein powder soy based",1,1,1,generic,Beverages,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173185,3338314084,"Alcoholic beverage, wine, table, all",2,2,2,generic,Alcohol,Liquor Cabinet,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+174116,3338314171,"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",1,1,1,generic,Beverages,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+171886,3338314196,"Beverages, Cocoa mix, no sugar added, powder",2,0,1,generic,Beverages,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174127,3338314204,"Beverages, coffee and cocoa, instant, decaffeinated, with whitener and low calorie sweetener",2,1,1,generic,Beverages,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+173230,3338314366,"Beverages, tea, instant, unsweetened, powder",1,1,1,generic,Beverages,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173647,3338314411,"Beverages, water, tap, drinking",2,2,2,generic,Beverages,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+175105,3338314436,"Beverages, orange breakfast drink, ready-to-drink, with added nutrients",2,2,2,generic,Beverages,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171943,3338314640,"Beverages, Energy drink, VAULT, citrus flavor",1,1,1,generic,Beverages,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+171945,3338314648,"Beverages, fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin",2,0,1,generic,Beverages,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+175123,3338315055,"Fish, mullet, striped, raw",3,2,2,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174207,3338315146,"Crustaceans, crayfish, mixed species, wild, cooked, moist heat",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174212,3338315155,"Mollusks, abalone, mixed species, raw",2,0,1,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173756,3338316056,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",3,2,2,generic,Canned & Bottled Beans,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172430,3338316087,"Peanuts, all types, raw",2,2,2,generic,Snacks,Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+324860,3338316098,"Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",3,2,2,generic,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172440,3338316110,"Soybeans, mature seeds, roasted, salted",2,2,2,generic,Snacks,Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+174287,3338316147,"Veggie burgers or soyburgers, unprepared",3,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174325,3338317038,"Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted",2,2,2,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+175295,3338317151,"Game meat, beaver, cooked, roasted",3,3,3,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+175298,3338317159,"Game meat, boar, wild, cooked, roasted",2,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173854,3338317163,"Game meat, caribou, cooked, roasted",1,1,1,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174348,3338317181,"Game meat, rabbit, wild, cooked, stewed",3,3,3,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172673,3338318027,"Bread, egg",2,2,2,generic,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172686,3338318064,"Bread, wheat",2,1,1,generic,Breads & Buns,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+174939,3338318110,"Cake, fruitcake, commercially prepared",2,2,2,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+174945,3338318141,"Cake, yellow, commercially prepared, with vanilla frosting",2,2,2,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+174947,3338318144,"Cake, yellow, enriched, dry mix",2,2,2,generic,"Cake, Cookie & Cupcake Mixes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+172720,3338318168,"Cookies, chocolate sandwich, with extra creme filling",2,1,1,generic,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172723,3338318176,"Cookies, marshmallow, chocolate-coated (includes marshmallow pies)",3,2,2,generic,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172725,3338318178,"Cookies, oatmeal, commercially prepared, regular",2,0,1,generic,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174965,3338318190,"Cookies, peanut butter sandwich, regular",2,0,1,generic,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174971,3338318204,"Cookies, sugar, commercially prepared, regular (includes vanilla)",2,2,2,generic,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172738,3338318211,"Puff pastry, frozen, ready-to-bake, baked",1,1,1,generic,Pastry Shells & Fillings,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+172739,3338318216,"Crackers, crispbread, rye",1,1,1,generic,Crackers & Biscotti,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+174980,3338318223,"Crackers, milk",2,0,1,generic,Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172754,3338318245,"Danish pastry, cheese",1,1,1,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+172780,3338318308,"Pie, cherry, commercially prepared",2,0,1,generic,Pastry Shells & Fillings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172785,3338318320,"Pie, lemon meringue, commercially prepared",2,0,1,generic,Pastry Shells & Fillings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+175021,3338318324,"Pie, pecan, commercially prepared",3,2,2,generic,Pastry Shells & Fillings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167957,3338319030,"Syrup, fruit flavored",3,3,3,generic,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167992,3338319109,"Candies, KIT KAT Wafer Bar",2,2,2,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169588,3338319154,"Candies, sesame crunch",2,0,1,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168770,3338319162,"Candies, WHATCHAMACALLIT Candy Bar",1,1,1,generic,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169598,3338319176,"Gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water",2,1,1,generic,"Cake, Cookie & Cupcake Mixes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+168815,3338319293,"Frozen yogurts, vanilla, soft-serve",1,1,1,generic,Yogurt,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+168822,3338319312,"Pie fillings, apple, canned",2,0,1,generic,Pastry Shells & Fillings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168836,3338319349,"Syrups, corn, dark",3,2,2,generic,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169687,3338319438,"Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares",3,2,2,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170656,3338319858,"Candies, sugar-coated almonds",3,2,2,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170676,3338319914,"Candies, M&M MARS 3 MUSKETEERS Truffle Crisp",2,2,2,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170677,3338319916,"Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup",2,0,1,generic,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170680,3338319923,"Candies, HERSHEYS, PAYDAY Bar",1,1,1,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169700,3338320029,"Couscous, cooked",2,0,1,generic,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169703,3338320036,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",2,1,1,generic,Rice,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+168877,3338320044,"Rice, white, long-grain, regular, raw, enriched",2,2,2,generic,Rice,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+168896,3338320083,"Wheat flour, white, bread, enriched",2,0,1,generic,Flours & Corn Meal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168905,3338320113,"Noodles, chinese, chow mein",1,1,1,generic,Pasta/Noodles,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+173266,3338321003,"Fast foods, biscuit, with egg and bacon",2,2,2,generic,"Frozen Breakfast Sandwiches, Biscuits & Meals",Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170292,3338321080,"Fast foods, nachos, with cheese, beans, ground beef, and tomatoes",2,2,2,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170317,3338321224,"Pizza, cheese topping, regular crust, frozen, cooked",2,2,2,generic,Frozen Dinners & Entrees,Chest Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+170716,3338321227,"Pizza, meat and vegetable topping, rising crust, frozen, cooked",3,3,3,generic,Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173322,3338321410,"Fast foods, bagel, with egg, sausage patty, cheese, and condiments",3,3,3,generic,"Frozen Breakfast Sandwiches, Biscuits & Meals",Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+170356,3338321464,"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173331,3338322906,"Chicken pot pie, frozen entree, prepared",3,3,3,generic,Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+172104,3338322954,"Egg rolls, chicken, refrigerated, heated",1,1,1,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+171750,3338323339,"Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0"" fat, all grades, raw",3,3,3,generic,Meat/Poultry/Other Animals Fresh,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+173139,3338325020,"Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",2,2,2,generic,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+174799,3338325051,"Snacks, CLIF BAR, mixed flavors",2,1,1,generic,"Snack, Energy & Granola Bars",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+171837,3338328291,"Cookies, animal, with frosting or icing",2,1,1,generic,Cookies & Biscuits,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+174082,3338328296,"Cake, snack cakes, creme-filled, chocolate with frosting, low-fat, with added fiber",2,2,2,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+174104,3338328345,"Crackers, gluten-free, multi-seeded and multigrain",2,1,1,generic,Crackers & Biscotti,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+167606,3338331023,"Sweet Potatoes, french fried, frozen as packaged, salt added in processing",2,1,1,generic,Frozen Vegetables,Chest Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+169771,3338332006,"Taquitos, frozen, chicken and cheese, oven-heated",1,1,1,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169773,3338332013,"Potsticker or wonton, pork and vegetable, frozen, unprepared",3,2,2,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168963,3338332028,"Turnover, filled with egg, meat and cheese, frozen",2,0,1,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169781,3338332032,"Sausage, egg and cheese breakfast biscuit",1,1,1,generic,"Frozen Breakfast Sandwiches, Biscuits & Meals",Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169792,3338333878,"Babyfood, GERBER, Banana with orange medley",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169015,3338336012,"Restaurant, family style, fried mozzarella sticks",3,2,2,generic,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167681,3338342055,"Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame",2,2,2,generic,Beverages,Pantry,Trader Joe's,2285 NW 185th Ave,null,Hillsboro,OR,97124
+167684,3338342116,"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie",2,1,1,generic,Salad Dressing & Mayonnaise,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+167689,3338342148,"Candies, MARS SNACKFOOD US, M&M's Peanut Butter Chocolate Candies",3,2,2,generic,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169859,3338342240,"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with almonds",1,1,1,generic,Cereal,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169041,3338342265,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",2,1,1,generic,Cereal,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+169863,3338342272,"Snacks, granola bar, with coconut, chocolate coated",3,3,3,generic,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169870,3338342297,"Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch",2,2,2,generic,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169051,3338342304,"Cheese, mozzarella, nonfat",2,0,1,generic,Dairy,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169871,3338342316,"Babyfood, carrots, toddler",3,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169873,3338343006,"Babyfood, fruit, tutti frutti, strained",2,2,2,generic,Baby Food,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169884,3338343114,"Vermicelli, made from soy",3,3,3,generic,Pasta/Noodles,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+169887,3338343130,"Frankfurter, meatless",1,1,1,generic,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+169902,3338343282,"Quail, cooked, total edible",2,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168131,3338343507,"Frankfurter, low sodium",3,2,2,generic,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167727,3338343528,"Beverages, ABBOTT, ENSURE PLUS, ready-to-drink",3,2,2,generic,Beverages,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+168138,3338343570,"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",3,3,3,generic,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+167735,3338343597,"Cheese, mozzarella, low sodium",2,1,1,generic,Dairy,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+168143,3338344061,"Puddings, chocolate flavor, low calorie, instant, dry mix",2,0,1,generic,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+589306,4656700550,FRENCH CUT GREEN BEANS,2,2,2,Raley's,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1058799,4656700829,ORIGINAL SYRUP,2,0,1,Raley's,Syrups & Molasses,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+525386,7078400802,8-INCH FLOUR TORTILLAS,3,2,2,"Tops Markets, LLC",Mexican Dinner Mixes,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+655676,7078402368,"BLENDED LOWFAT YOGURT, STRAWBERRY",2,2,1,"Tops Markets, LLC",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+657756,7078450829,"MIXED NUTS WITH PEANUTS, LIGHTLY SALTED",3,3,1,"Tops Markets, LLC","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+449252,7203671274,STEAMABLE BRUSSELS SPROUTS & BUTTER,1,1,1,Harris-Teeter Inc.,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+449266,7203671660,CRINKLE CUT CARROTS,2,1,2,Harris-Teeter Inc.,Frozen Vegetables,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+836194,7203671693,"GREEN SUGAR DESSERT TOPPINGS, GREEN SUGAR",3,1,2,Harris-Teeter Inc.,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+461666,7203671863,SAUCE,2,0,1,Harris-Teeter Inc.,"Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+729942,7203671874,DEEP DISH PIE CRUST,3,3,1,Harris-Teeter Inc.,Frozen Bread & Dough,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+733992,7203688168,MIXED BEANS READY VEGGIES,3,1,2,HARRIS TEETER,Pre-Packaged Fruit & Vegetables,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+528059,7203698591,CUT SWEET POTATOES PACKED IN SYRUP,2,1,2,Harris-Teeter Inc.,Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+681542,7789043254,"KOSHER DILL, MINI",2,1,1,"Wegmans Food Markets, Inc.","Pickles, Olives, Peppers & Relishes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+684724,7789043512,"THIN CRUST PIZZA, CHEESE",1,1,1,"Wegmans Food Markets, Inc.",Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+714728,7789046703,"WHITE JASMINE RICE, WHITE",1,2,1,"Wegmans Food Markets, Inc.",Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+519462,8725070087,MYRTLES MILK CHOCOLATE CRANBERRY ALMOND,3,2,2,Long Grove Confectionery Co.,Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+707962,9542041496,SNICKERDOODLE WHITE CHOCOLATE TRUFFLES,2,0,1,Lindt & Sprungli (Schweiz) AG,Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+863978,10700807229,"PEANUT CARAMEL BAR, PEANUT CARAMEL",2,1,1,"Leaf, Inc.",Candy,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+568692,10994000108,POTATO CHIPS,3,3,1,SHOPKO MARKET,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+413542,11110000446,"PRIVATE SELECTION, SALTED CARAMEL BROWNIES",2,2,1,The Kroger Co.,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+920314,11110031587,"LAVENDER INFUSED SUGAR, LAVENDER",2,0,1,The Kroger Co.,"Granulated, Brown & Powdered Sugar",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+412973,11110428622,1% LOW FAT MILK,2,0,1,The Kroger Co.,Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+404894,11110740267,"KROGER, RAINBOW GELATIN",3,2,2,The Kroger Co.,"Gelatin, Gels, Pectins & Desserts",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+477519,11110741349,ROASTED SALSA,1,1,1,The Kroger Co.,Dips & Salsa,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+826376,11110783776,"PRIVATE SELECTION, TART CHERRY & WHITE PEACH FRUIT FILLING, MICHIGAN CHERRIES BLENDED WITH CALIFORNIA PEACHES, MICHIGAN CHERRIES BLENDED WITH CALIFORNIA PEACHES",2,0,1,The Kroger Co.,Pastry Shells & Fillings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+402125,11110808042,"KROGER, WHOLE KERNEL SWEET GOLDEN CORN",2,2,1,The Kroger Co.,Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+389577,11110858733,GREAT NORTHERN BEANS,3,1,2,The Kroger Co.,Vegetable and Lentil Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+603781,11110860323,"CHOCOLATE FLAVOR FROSTING MIX, CHOCOLATE",2,2,2,The Kroger Co.,"Cake, Cookie & Cupcake Mixes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+392006,11110868039,STIR FRY SAUCE,2,1,2,The Kroger Co.,"Oriental, Mexican & Ethnic Sauces",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+398354,11110877772,"KROGER, FROZEN CONCENTRATED JUICE COCKTAIL, GRAPE",3,1,2,The Kroger Co.,Frozen Fruit & Fruit Juice Concentrates,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+396811,11110968968,"SIMPLE TRUTH ORGANIC, ORGANIC GROUND BEEF",2,2,1,The Kroger Co.,Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+492855,11150541244,"ROUNDY'S, FROZEN CONCENTRATE, RASPBERRY LEMONADE",2,0,1,ROUNDY'S,Frozen Fruit & Fruit Juice Concentrates,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+386376,11152070711,RICE SEASONING,2,2,2,KATSUO FUMI FURIKAKE,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+799843,11152186931,EASY-COOKING PREMIUM KOSHIHIKARI BROWN RICE,2,1,1,JFC International Inc.,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+439154,11161035633,"SHURFINE, BRAN CRUNCHY WHEAT FLAKES CEREAL, RAISIN",3,1,2,"Topco Associates, Inc.",Cereal,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+527311,11161447627,"FLAKY JUMBO BISCUITS, BUTTER",3,1,2,"Topco Associates, Inc.",Crusts & Dough,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+438914,11161462316,SALTED SWEET CREAM BUTTER,2,1,1,"Topco Associates, Inc.",Butter & Spread,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+489606,11200000165,CHICKEN BREAST PATTIES,1,2,1,"Tyson Foods, Inc.",Frozen Patties and Burgers,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+387856,11213167954,SEASONING MIX,3,2,2,SPARTAN,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+401441,11225030451,MEDIUM SALSA,2,1,1,Kingston Marketing Co,Dips & Salsa,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+958553,11225122774,"COMBINATION SAUSAGE & PEPPERONI PIZZA, COMBINATION",2,1,2,Kingston Marketing Co,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1084627,11225130236,"SUGAR SOFT COOKIES, SUGAR",2,1,1,Kingston Marketing Co,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1005635,11225175657,"HOT RED CHILE TOMATILLO STREET TACO SAUCE, HOT RED CHILE TOMATILLO",1,1,1,Kingston Marketing Co,"Oriental, Mexican & Ethnic Sauces",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+552441,11225353116,PUMPKIN PATCH EDIBLE CONFETTI,3,1,2,OVER THE TOP,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+598203,11225354410,MINI GINGERBREAD MEN COOKIES,2,0,1,SWEET P'S BAKE SHOP,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+447429,11225510359,"VALU TIME, IODIZED SALT",2,0,1,Kingston Marketing Co,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1064391,11433115117,"ROASTED CHICKEN, SPINACH, SPICED YOGURT SAUCE, TURMERIC RICE, CHICKEN TANDOORI WITH SPINACH",2,1,1,Deep Foods Inc.,Frozen Dinners & Entrees,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+765568,12000071782,Ocean Spray Ruby Red Grapefruit 15.2 Fluid Ounce Plastic Bottle,2,1,1,PepsiCo,Non Alcoholic Beverages  Ready to Drink,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1001349,12000150074,"MIST TWST, SPARKLING FLAVORED SODA, CHERRY LEMON LIME, CHERRY LEMON LIME",2,2,2,Pepsi-Cola North America Inc.,Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+519221,12700001003,OVEN READY LASAGNA MADE WITH EGGS,2,2,1,New World Pasta Company,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+672022,13000514910,"TOMATO KETCHUP, TOMATO",1,1,1,Heinz USA,"Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1093089,13451426657,"SHRIMP & CRAB STEW SINGLE SERVE BOWLS, SHRIMP & CRAB STEW",2,1,1,"Tall Tree Foods, Inc.",Frozen Dinners & Entrees,Chest Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+1000449,13562042302,"GLUTEN FREE BUNNY COOKIES, COCOA & VANILLA",2,0,1,"General Mills, Inc.",Cookies & Biscuits,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+529182,13800144089,"LEAN CUISINE, GINGER GARLIC STIR FRY WITH CHICKEN",1,2,1,Nestle Usa-Frozen Food Division,Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+712298,13800981820,"BEEF & CHORIZO XL BURRITOS, BEEF & CHORIZO",2,2,1,Nestle Usa-Frozen Food Division,Frozen Dinners & Entrees,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+367541,13964794069,"EDEN'S KITCHEN, BLACKEYE PEAS",2,0,1,Caldo International Inc.,Canned & Bottled Beans,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+651896,13971021004,"FUJI & REDS APPLE CHIPS, FUJI & REDS",2,2,2,Bare Foods Co.,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1072629,14100071112,"SWIRL RAISIN CINNAMON BREAD, RAISIN CINNAMON",3,2,2,"Pepperidge Farm, Inc.",Breads & Buns,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+810944,14100096559,PEPPERIDGE FARM CRACKERS CHEDDAR,2,0,1,PEPPERIDGE FARM,Biscuits/Cookies,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+720358,14500019271,"SHREDDED CARROTS & BROCCOLI FLORETS WITH SCALLIONS AND GARLIC, LIGHTLY SEASONED WITH SALT & BLACK PEPPER",2,2,1,Pinnacle Foods Group LLC,Frozen Vegetables,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+697026,14800103830,"SWEET & SPICY TOMATO COCKTAIL FROM CONCENTRATE, SWEET & SPICY",1,2,1,Mott's LLP,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+597461,15400837828,"ENRICHED MACARONI PRODUCT, ZITI",2,2,1,SHURFINE,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+597767,15400838665,"SPAGHETTI RINGS & MEATBALLS MADE WITH PORK, CHICKEN & BEEF IN TOMATO SAUCE",2,1,2,SHURFINE,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+735028,15400851770,SUGAR SUBSTITUTE,3,1,2,SHURFINE,"Granulated, Brown & Powdered Sugar",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1037773,15400866330,SLICED ALMONDS,3,1,2,"Western Family Foods, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+698528,15400995757,UNSWEETENED ORANGE JUICE FROM CONCENTRATE,2,2,1,SHURFINE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+422387,15747199177,"AMERICA'S BEST, GUMMY PEACH",2,1,1,Laredo Packing Company,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+365678,15839001302,"GARDEN OF EATIN, ORGANIC WHOLE WHEAT TORTILLAS",3,3,1,"The Hain Celestial Group, Inc.",Mexican Dinner Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+812318,15900000531,"SMOKED PREMIUM DELI HAM, SMOKED",2,0,1,Bar-S Foods Co.,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+659070,15900063291,"BOLOGNA, GARLIC",2,2,1,Bar-S Foods Co.,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+509861,15984524763,PISTACHIO MUFFINS,2,0,1,REDNER'S WAREHOUSE MARKETS,"Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1015765,16000135642,"CHOCOLATE PEANUT BUTTER BROWNIE MIX WITH PEANUT BUTTER TOPPING MUG TREATS, CHOCOLATE PEANUT BUTTER",2,1,2,"General Mills, Inc.","Cake, Cookie & Cupcake Mixes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+608864,16000424142,Betty Crocker SpongeBob Fruit Flavored Snacks 10 Count,2,2,1,GENERAL MILLS SALES INC.,Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+999955,16000437128,"HAMBURGER HELPER, ULTIMATE THREE CHEESE MARINARA PASTA & SAUCE MIX",3,1,2,"General Mills, Inc.",Pasta Dinners,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+521487,17077034050,ORGANIC WHOLE MILK KEFIR CULTURED MILK SMOOTHIE,1,2,1,Lifeway Foods Inc.,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+799515,17400140755,BOIL-IN-BAG 100% TRI-COLOR QUINOA,1,2,1,Riviana Foods Inc.,Other Grains & Seeds,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1014243,18000785438,"RAW COOKIE DOUGH, CHOCOLATE CHIP WITH ORANGE MORSELS",2,1,1,"General Mills, Inc.",Crusts & Dough,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+551955,18053760734,CHICKEN TORTILLA SOUP,2,1,1,The Harris Soup Company,Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+980869,18627104728,"PLANT-POWERED BAR, HONEY PECAN BAKLAVA",2,2,2,Kashi International Corporation,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+577659,18894114666,PRE-SIFTED ALL-PURPOSE BLEACHED ENRICHED FLOUR,2,2,1,"Big Y Foods, Inc.",Flours & Corn Meal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1012565,18894306900,"VERMONT SHARP WHITE CHEDDAR CHEESE, VERMONT SHARP WHITE CHEDDAR",1,2,1,"Big Y Foods, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+668324,18894332398,"NO SUGAR ADDED ARTIFICIALLY SWEETENED FRUIT COCKTAIL IN WATER, SWEETENED",1,1,1,"Big Y Foods, Inc.",Canned Fruit,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+876938,18894461210,"SEEDED RYE DELI STYLE ENRICHED BREAD, SEEDED RYE",2,0,1,"Big Y Foods, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1029187,18894561231,"YELLOW POPCORN, YELLOW",2,0,1,"Big Y Foods, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+632988,18894705796,SWEET & SALTY MICROWAVE KETTLE CORN,2,1,1,"Big Y Foods, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+417972,20601409088,"HEINEN'S, HONEY WHEAT PRETZEL BRAIDS",2,2,1,HEINEN'S,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+595725,20700006355,PUMPKIN PIE NATURALLY FLAVORED TEA,2,1,1,"Redco Foods, Inc.",Tea Bags,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+981553,21000050734,REAL MAYONNAISE,2,1,1,Kraft Heinz Foods Company,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+551226,21130100903,MEATLOAF WITH MASHED POTATOES,2,1,2,"Safeway, Inc.",Other Deli,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+551290,21130104017,LASAGNA WITH MEAT SAUCE,2,0,1,"Safeway, Inc.",Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1061247,21130139392,"SUGAR COOKIES, SUGAR",2,1,1,"Safeway, Inc.",Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+985415,21130156566,"SPICY JAMBALAYA WITH SAUSAGE, WHITE MEAT CHICKEN, APPLEWOOD SMOKED BACON & UNCURED HAM, SPICY",1,2,1,"Safeway, Inc.",Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+604392,21130233588,"STRAWBERRY FLAVORED SPARKLING WATER BEVERAGE, STRAWBERRY",1,2,1,"Safeway, Inc.",Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+418056,21130252404,"DIET COLA SODA, COLA",1,2,1,"Safeway, Inc.",Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+556174,21130313211,JUICE COCKTAIL FROM CONCENTRATE,3,2,2,"Safeway, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+567579,21130316168,VEGETABLE JUICE,2,1,2,"Safeway, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+588739,21130334766,ALKALINE WATER+ELECTROLYTES,2,2,1,"Safeway, Inc.",Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+658630,21130335244,NO SALT ADDED SLICED BEETS,1,2,1,"Safeway, Inc.",Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+714152,21130372348,"HOMESTYLE MINESTRONE SOUP, HOMESTYLE",2,0,1,"Safeway, Inc.",Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+386486,21130495573,TURKEY GRAVY,2,1,2,"Safeway, Inc.",Gravy Mix,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+458352,21130501694,FROSTED BROWN SUGAR & CINNAMON TOASTER PASTRIES,3,1,2,"Safeway, Inc.","Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+650700,21131000103,"BROCCOLI CHEDDAR & POTATO POT PIE PREMIUM VEGETABLES WITH CREAMY CHEDDAR CHEESE, BROCCOLI CHEDDAR & POTATO",3,1,2,Marie Callender's Retail Foods,Frozen Dinners & Entrees,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+755934,21131590055,"MARIE CALLENDERS Vermont White Cheddar Macaroni And Cheese Bake, 24 OZ",2,0,1,Conagra Brands,Dough Based Products / Meals,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+439615,21140023988,"WINN-DIXIE, FIBER MAX BROWNIE BAR, CHOCOLATE FUDGE",2,1,1,"Winn-Dixie Stores, Inc.","Cakes, Cupcakes, Snack Cakes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+647444,21140143310,"TOASTER PASTRIES, FROSTED BLUEBERRY, FROSTED BLUEBERRY",2,1,1,"Winn-Dixie Stores, Inc.","Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+359234,21140249340,QUICK GRITS,3,1,2,"Winn-Dixie Stores, Inc.",Cereal,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+652698,21908489049,"LARABAR, CRUNCHY NUT & SEED BAR, DARK CHOCOLATE ALMOND, DARK CHOCOLATE ALMOND",3,3,1,"Small Planet Foods, Inc.","Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+912826,22014051021,"MANGO, SWEET POTATO, APRICOT FRUIT + VEGGIE APPLE SAUCE, MANGO, SWEET POTATO, APRICOT",2,2,1,Manzana Products Co Inc,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+942224,22961009380,"STRAWBERRY SYRUP, STRAWBERRY",2,0,1,Halcon Baker Inc.,Syrups & Molasses,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+912012,23000434088,"CHEESE CURLS, CHEESE",2,1,1,Pinnacle Foods Group LLC,Other Snacks,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+543977,23637410622,VERY BERRY SOUR BRITE CRAWLERS,2,0,1,NOT A BRANDED ITEM,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+415629,23637428658,MILK CHOCOLATE COVERED ALMONDS,3,3,1,"Holiday Candy Corp, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+540475,23700011176,CHICKEN WINGS,3,1,2,"Tyson Foods, Inc.",Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+503782,24100109678,CRISPY CRACKER CHIPS,3,2,2,"Sunshine Biscuits, Inc.","Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+603699,24100440597,"SHARP CHEDDAR, PARMESAN BAKED SNACK CRACKERS, SHARP CHEDDAR, PARMESAN",2,1,2,"Sunshine Biscuits, Inc.",Flavored Snack Crackers,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+426493,24182157062,"EDEN, NORI SEA VEGETABLE",3,1,2,"Eden Foods, Inc.",Vegetable and Lentil Mixes,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+458859,24211312608,"NUESKE'S, BACON CHEDDAR BRATWURST, APPLEWOOD SMOKED",2,1,2,Nueske HiLLCrest Farm Meats,"Sausages, Hotdogs & Brats",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+455099,24321930365,LACTOSE FREE SKIM FAT FREE MILK,1,2,1,Agropur Inc. Division Natrel USA,Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+486311,24732264455,SHRIMP WITH SAUCE,3,2,2,"Tampa Bay Fisheries, Inc.",Frozen Fish & Seafood,Refrigerator-Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+545513,24842121112,"BUITONI, CHICKEN & PROSCIUTTO TORTELLONI",3,2,2,"Nestle USA-Prepared Foods Division, Inc.",Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1048639,25293004474,"UNSWEETENED ALMONDMILK, UNSWEETENED",2,2,1,"Danone US, LLC",Plant Based Milk,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+967341,25293600379,"ORIGINAL SOYMILK, ORIGINAL",2,1,2,"Danone US, LLC",Plant Based Milk,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+413146,25293602083,SOYMILK,3,1,2,WWF Operating Company,Plant Based Milk,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+922706,25583115897,PLANT-BASED BURGER,3,3,1,"Turtle Island Foods, Inc.",Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+484756,25600089200,"TASTYKAKE, KANDY KAKES, FALL KARROT KAKE",2,2,2,Tasty Baking Company,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+381240,26662753283,CHERRY PEPPERS SLICES,2,0,1,Casa Imports Inc.,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1003835,27000419229,"STRAWBERRY GEL SNACK, STRAWBERRY",2,1,1,"Conagra Brands, Inc.","Gelatin, Gels, Pectins & Desserts",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+945258,27000420492,"RED, WHITE & BLUE STRAWBERRY, BERRY BLUE JUICY GELS, STRAWBERRY, BERRY BLUE",2,1,1,"Conagra Brands, Inc.","Gelatin, Gels, Pectins & Desserts",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+573230,28029170689,WILD ALASKAN SMOKED SOCKEYE SALMON,3,3,1,TRIDENT SEAFOODS,Fish & Seafood,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+764088,28400028073,Lay's Sour Cream & Onion Flavored Potato Chips 2.88 Ounce Plastic Bag,2,2,1,Frito Lay,Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+765140,28400084468,Lay's Kettle Cooked Sea Salt & Cracked Pepper Flavored Potato chips 8.5 Ounce Plastic Bag,3,1,2,Frito Lay,Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+997439,28400220538,"TORTILLA CHIPS, FAJITA",2,0,1,Frito-Lay Company,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1051205,28400327206,"ORIGINAL CORN CHIPS, ORIGINAL",2,0,1,Frito-Lay Company,"Chips, Pretzels & Snacks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+979841,28400432795,"POTATO CHIPS, QUESO CHEESE",2,1,1,Frito-Lay Company,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+530108,28435398967,SODA,1,2,1,"Wis-Pak, Inc.",Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+503086,29000019164,"PLANTERS, HONEY NUT",1,2,1,Nabisco Food Company,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1018553,29000024090,"HOT N' SPICY CRISPY COATED PEANUTS, HOT N' SPICY",2,0,1,Nabisco Food Company,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+432161,29126150307,"DORVAL, SOUR POWER STRAWS, COTTON CANDY",3,1,2,"Dorval Trading Co., Ltd.",Candy,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+415693,29568100878,POTATO CHIPS,3,2,2,Jcs Inc.,"Chips, Pretzels & Snacks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+459886,29800113475,CORNDOGS,3,1,2,Monogram Food Solutions LLC,Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+510161,30034083588,PUDDING SNACKS,2,2,1,"Giant Eagle, Inc.",Puddings & Custards,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+415737,30034096625,POPCORN,1,2,1,"Giant Eagle, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+604018,30034919115,"CORN PUFFS, BUTTER",1,2,1,"Giant Eagle, Inc.",Other Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+942930,30034931858,"ORIGINAL APPLESAUCE, ORIGINAL",3,2,2,"Giant Eagle, Inc.",Wholesome Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+979439,31000115609,CRISPY CHICKEN,2,1,1,Conagra Frozen Foods,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1054401,31000671051,"SHRIMP WITH PENNE, ASPARAGUS AND BELL PEPPERS IN A CREAMY TOMATO BASIL SAUCE, SHRIMP PENNE & ASPARAGUS",2,2,2,Conagra Frozen Foods,Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1008811,31146031153,MINESTRONE NU:DLE SOUP,2,2,1,"Nong Shim Co., Ltd.",Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+503282,31290110490,ASSORTED MILK CHOCOLATES,2,2,2,"Godiva Chocolatier, Inc.",Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+863404,31919005008,"LOW GLYCEMIC GRAPE SPREAD, GRAPE",1,1,1,"Fifty-50 Foods, Inc.","Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+536359,32601901400,ORGANIC SPRING MIX,2,1,2,"Natural Selection Foods, LLC",Pre-Packaged Fruit & Vegetables,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+405553,32601902834,"EARTHBOUND FARM, ORGANIC KALE CAESAR BOWL WITH SPICY LIGHT CAESAR DRESSING",2,0,1,WWF Operating Company,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+507466,32971253994,FISH BALLS,3,2,2,Venus Foods Inc.,Fish & Seafood,Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+550959,33600023254,GRANULATED BROTH & SEASONING BOUILLON,1,2,1,HERB-OX,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+381538,33757084504,PEAS AND CARROTS,1,1,1,Citadel Enterprises Inc.,Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1083239,33776100872,"CRUNCHY PEANUT & COCONUT OIL SPREAD, CRUNCHY",3,1,2,Pinnacle Foods Group LLC,Nut & Seed Butters,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+723792,34000445530,REESE'S BAKING CUPS AND REESE'S PIECES CANDY,1,2,1,REESE'S,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+554942,34000666522,WHITE CREME PEANUT BUTTER HEART,3,2,2,REESE'S,Candy,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+987843,34500446136,"BABY SWISS CHEESE DELI THIN SLICES, BABY SWISS",3,3,1,"Land O'Lakes, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+525268,35032852044,ITALIAN-STYLE SPECIALTIES MADE WITH ALL-NATURAL* INGREDIENTS,2,0,1,NATURE'S DELI,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+448181,35243539802,CITY HAM,2,0,1,Burgers' Ozark Country Cured Hams,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+441296,35826091192,CHEDDAR CHEESE CUBES,2,0,1,Food Town Stores Inc.,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+820036,36192122961,"CINNAMON APPLE SAUCE, CINNAMON APPLE",1,1,1,Santa Cruz Natural,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581832,36192150070,JUICE BEVERAGE,1,2,1,Santa Cruz Natural,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+839342,36200430446,"CREAMY BASIL ALFREDO WITH AGED PARMESAN CHEESE SAUCE, CREAMY BASIL ALFREDO",3,1,2,"Mizkan America, Inc.",Prepared Pasta & Pizza Sauces,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+485205,36632011060,"DANNON, LIGHT & FIT, NONFAT GREEK CRUNCH YOGURT & TOPPINGS, STRAWBERRY CHEESECAKE",3,3,1,"The Dannon Company, Inc.",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1070363,36632019738,"RASPBERRY NONFAT GREEK YOGURT, RASPBERRY",2,1,1,"Danone US, LLC",Yogurt,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+969787,36632029362,"BLUEBERRY BLACKBERRY FRUIT ON THE BOTTOM LOWFAT YOGURT, BLUEBERRY, BLACKBERRY",2,1,1,"Danone US, LLC",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+841362,36632035745,"PRUNE FLAVOR LOWFAT YOGURT DRINK, PRUNE",3,1,2,"Danone US, LLC",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+860952,36632038500,"VANILLA NONFAT YOGURT, VANILLA",3,1,2,"Danone US, LLC",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+500535,36800057326,WHOLE MILK,2,2,1,"Topco Associates, Inc.",Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+470918,36800095199,SWEETENED MULTI-GRAIN CEREAL,2,2,2,"Topco Associates, Inc.",Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+584861,36800144347,LIGHT NONFAT YOGURT,2,0,1,"Topco Associates, Inc.",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582271,36800290099,COBBLER MIX,3,1,2,"Topco Associates, Inc.","Cake, Cookie & Cupcake Mixes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+659566,36800302297,"PLAIN MINI BAGELS, PLAIN",2,2,1,"Topco Associates, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1026035,36800311718,ENRICHED LONG GRAIN WHITE RICE,3,2,2,"Topco Associates, Inc.",Rice,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+500793,36800318663,BEEF BROTH,2,1,1,"Topco Associates, Inc.",Canned Soup,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+362632,36800342637,FROSTED STRAWBERRY TOASTER PASTRIES,3,1,2,"Topco Associates, Inc.","Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+631540,36800363779,"FRUIT PUNCH ARTIFICIALLY FLAVORED SODA, FRUIT PUNCH",3,1,2,"Topco Associates, Inc.",Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+830346,36800411395,"WILD CHERRY FLAVORED JUICE DRINK, WILD CHERRY",1,1,1,"Topco Associates, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+827398,36800422100,"TOASTED OATS CEREAL, TOASTED OATS",1,1,1,"Topco Associates, Inc.",Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1025015,36800446922,"WATERMELON WEDGES CANDIES, WATERMELON WEDGES",2,1,1,"Topco Associates, Inc.",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+704426,36800457041,"ORIGINAL CLARIFIED BUTTER GHEE, ORIGINAL",1,1,1,"Topco Associates, Inc.",Butter & Spread,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+724692,36800459021,PULP FREE 100% ORANGE JUICE FROM CONCENTRATE,1,2,1,"Topco Associates, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+929088,36800472785,"PLANT-BASED CHICK'N FLAVORED GROUND, CHICK'N",1,2,1,"Topco Associates, Inc.",Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582813,36800477537,WHITE AMERICAN SINGLES PASTEURIZED PREPARED CHEESE PRODUCT,3,2,2,"Topco Associates, Inc.",Cheese,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+572070,36800836167,CUT YAMS SWEET POTATOES IN LIGHT SYRUP,2,1,1,"Topco Associates, Inc.",Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+863688,37100046072,"CRISPY SAUERKRAUT, CRISPY",2,0,1,Seneca Foods Corporation,Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+427192,37578617774,"MEDALLION, NACHO CHEESE TORTILLA CHIPS",2,1,1,Shearer's Foods Inc.,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+630020,37600241939,"HORMEL, CHILI NO BEANS",2,0,1,Hormel Foods Corporation,Chili & Stew,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+345131,38000000126,Kellogg's Special K Protein Bars Double Chocolate 1.59oz,2,0,1,Kellogg Company US,Cereal/Muesli Bars,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+653412,38000132346,CEREAL,3,3,1,The Kellogg Company,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1058255,38000156670,"STRAWBERRY SHORTCAKE THICK & FLUFFY THICK BELGIAN STYLE WAFFLES, STRAWBERRY SHORTCAKE",2,0,1,The Kellogg Company ,"Frozen Pancakes, Waffles, French Toast & Crepes",Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+348051,38000322105,Kellogg's Pop-Tarts Frosted Strawberry 1.83oz,3,1,2,Kellogg Company US,Pies/Pastries - Sweet (Shelf Stable),Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+661262,38000581700,"TOASTER PASTRIES, FROSTED S'MORES",3,2,2,The Kellogg Company,"Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+459476,38232374026,"FESTIVAL FOODS, PICO DE GALLO",2,1,1,Child's Play Inc.,Dips & Salsa,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+476364,38252430047,PLANES SHAPED GUMMIES,2,1,1,DISNEY,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+548711,38259110546,FAT FREE SOUR CREAM,1,1,1,SE GROCERS,Cream,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+404996,39217051642,"PAPA'S, ORGANIC 100% WHOLE WHEAT GREEK PITA FLAT BREAD",1,2,1,Maxim's Nutricare Inc,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+929240,39632001130,"GARLIC FLAVOR INFUSED OLIVE OIL, GARLIC",2,1,1,Big Five Software,Vegetable & Cooking Oils,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+440949,39978006806,FLAGEOLET HERITAGE BEANS,3,1,2,"Bob's Red Mill Natural Foods, Inc.",Vegetable and Lentil Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+544632,40000458340,CHOCOLATES CANDIES,2,0,1,Mars Chocolate North America LLC,Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+677972,40000534518,"CHOCOLATE CANDIES, PEANUT",2,2,2,Mars Chocolate North America LLC,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+923486,40000550785,"MILK CHOCOLATE CANDIES, MILK CHOCOLATE",3,1,2,Mars Chocolate North America LLC,Candy,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1093981,40000557388,"MILK CHOCOLATE CANDIES RED, WHITE & BLUE MIX, MILK CHOCOLATE",2,0,1,Mars Chocolate North America LLC,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+544919,40822017497,CLASSIC HUMMUS,1,2,1,Sabra Dipping Company LLC,Dips & Salsa,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+441010,41130388330,"CULINARY CIRCLE, CREAM CHEESE SPREAD, KALAMATA OLIVE & FETA",2,1,1,"Supervalu, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+476417,41144799221,PIE CRUMBLER,2,2,1,West Coast Grocery Company,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+589073,41191237035,ICE CREAM,2,2,1,Dean Foods Company,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+759902,41196911817,Progresso Vegetable Classics Lentil with Roasted Vegetables Soup,3,1,2,GENERAL MILLS SALES INC.,Prepared Soups,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+918388,41220335312,"100% APPLE JUICE FROM CONCENTRATE, APPLE JUICE",2,0,1,H E Butt Grocery Company,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+508842,41224620001,WILD SWEDISH LINGONBERRIES STIRRED WITH SUGAR,2,1,1,American Roland Food Corp.,"Jam, Jelly & Fruit Spreads",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+619542,41250025979,CAVATAPPI,2,2,1,"Meijer, Inc.",Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+500044,41250102434,CULTURED LOWFAT BUTTERMILK,3,2,2,"Meijer, Inc.",Milk,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+816738,41250564829,"MEIJER, INSTANT OATMEAL, PEACHES, CREAM, PEACHES, CREAM",2,2,1,"Meijer, Inc.",Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+629148,41250941958,SAUERKRAUT,2,1,2,"Meijer, Inc.",Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+479372,41262283947,RIDGIES POTATO CHIPS,3,1,2,"Wise Foods, Inc.","Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+441870,41268195145,AMERICAN SINGLES CHEESE,2,2,1,Hannaford Bros. Co.,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+933476,41268215898,"PICO DE GALLO SALSA, PICO DE GALLO",3,1,2,Hannaford Bros. Co.,Dips & Salsa,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+441919,41268755912,"TASTE OF INSPIRATIONS, CRUMBLED FETA CHEESE",2,2,2,Hannaford Bros. Co.,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+392345,41270031172,"IGA, DELI STYLE SPICE BROWN MUSTARD",3,2,2,"Iga, Inc.","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+549567,41270321914,WHEAT WAFERS,3,1,2,"Iga, Inc.",Crackers & Biscotti,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+562845,41270830638,SUGAR FROSTED FLAKES,3,2,2,"Iga, Inc.",Cereal,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+631114,41271018318,"INTERNATIONAL DELIGHT, GOURMET COFFEE CREAMER, SALTED CARAMEL MOCHA, SALTED CARAMEL MOCHA",2,0,1,Dean Foods Company,Milk Additives,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+848462,41271022605,"PUMPKIN PIE SPICE SUGAR FREE COFFEE CREAMER, PUMPKIN",1,2,1,Dean Foods Company,Milk Additives,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+628292,41303006757,"CHOCOLATE CHIP BREAK 'N BAKE COOKIE DOUGH, CHOCOLATE CHIP",1,2,1,"Supervalu, Inc.",Crusts & Dough,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+570175,41303015353,RICE CAKE,1,2,1,"Supervalu, Inc.",Other Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+628280,41303016794,"CHICKEN NOODLE CONDENSED SOUP, CHICKEN NOODLE",1,1,1,"Supervalu, Inc.",Canned Condensed Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+403587,41303017418,ORIGINAL APPLE SAUCE,2,0,1,"Supervalu, Inc.",Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+404572,41303031254,"ESSENTIAL EVERYDAY, PRESERVES, RED RASPBERRY",3,3,1,"Supervalu, Inc.","Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+570597,41303036839,NONFAT YOGURT,3,1,2,"Supervalu, Inc.",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+423002,41303051931,TRAIL MIX,2,2,1,"Supervalu, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581597,41303076170,FRUIT & VEGGIE FRUIT FLAVORED SNACKS,1,1,1,"Supervalu, Inc.",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+547944,41318010879,WHOLE MARASCHINO CHERRIES,2,2,1,"Schnuck Markets, Inc.",Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+904126,41318200904,"CREAMY POPPYSEED DRESSING, CREAMY POPPYSEED",2,1,2,"Schnuck Markets, Inc.",Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+686320,41318251777,"CARAMEL CORN, CARAMEL",2,1,1,"Schnuck Markets, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+524869,41318300006,CHICKEN BROTH,2,1,1,"Schnuck Markets, Inc.",Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+936946,41318300253,"DELUXE MACARONI & CHEESE DINNER IN A CHEDDAR CHEESE SAUCE, CHEDDAR CHEESE",3,3,1,"Schnuck Markets, Inc.",Pasta Dinners,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+604295,41318410167,ORIGINAL THIN CRUST SAUSAGE PIZZA,2,0,1,"Schnuck Markets, Inc.",Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+473137,41318480399,PEAS & CARROTS,1,1,1,"Schnuck Markets, Inc.",Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+830808,41321006609,"ITALIAN DRESSING, ITALIAN",2,1,1,Pinnacle Foods Group LLC,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+529922,41321009754,BALSAMIC VINAIGRETTE DRESSING,1,2,1,Pinnacle Foods Group LLC,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581535,41321016660,DRESSING & MARINADE,2,2,2,Pinnacle Foods Group LLC,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+360748,41331020053,"GOYA, PREMIUM GREEN PIGEON PEAS WITH COCONUT",3,1,2,"Goya Foods, Inc.",Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+556798,41331126489,RICE WITH GREEN PEPPERS & CORN,2,2,2,"Goya Foods, Inc.",Flavored Rice Dishes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+486027,41392600188,"E.D. SMITH, TRIPLE FRUITS SPREAD, STRAWBERRY WITH RASPBERRY & PLUM",2,0,1,"Gem, Inc.","Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1079037,41415005518,"FOUR CHEESE MOZZARELLA, ASIAGO, PARMESAN, AND ROMANO CHEESES WITH CLASSIC SEASONINGS ON A SELF-RISING CRUST PIZZA, FOUR CHEESE",2,2,2,"Publix Super Markets, Inc.",Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+908648,41415029088,"BROWN GRAVY MIX, BROWN",3,2,2,"Publix Super Markets, Inc.",Gravy Mix,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+780312,41415319912,MARBLE SLICED LOAF CAKE WITH VANILLA-FLAVORED ICING,2,2,2,"Publix Super Markets, Inc.","Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+941192,41415420458,WILD CAUGHT COD LOINS,2,2,1,"Publix Super Markets, Inc.",Frozen Fish & Seafood,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+819348,41460201019,"TACO SEASONING, TACO",1,2,1,Pioneer Flour Mills,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553206,41497012497,PREMIUM ICE CREAM,2,2,1,"Weis Markets, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+927476,41497035588,"SEASONED, SHREDDED POTATOES TATER BITES, SEASONED",2,2,1,"Weis Markets, Inc.","French Fries, Potatoes & Onion Rings",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+360529,41497059010,POTATO SALAD,2,1,1,"Weis Markets, Inc.","Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+379944,41497065820,FRESH YOUNG TURKEY,2,2,1,"Weis Markets, Inc.","Poultry, Chicken & Turkey",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+380376,41497085576,TRADITIONAL FLOUR TORTILLAS,1,1,1,"Weis Markets, Inc.",Mexican Dinner Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+496221,41497099634,ORGANIC REDUCED FAT MILK,2,2,1,"Weis Markets, Inc.",Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+814650,41497276899,"MARINARA CLASSIC SAUCES, MARINARA",1,1,1,"Weis Markets, Inc.",Prepared Pasta & Pizza Sauces,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+366470,41497277650,TOMATO SAUCE,3,2,2,WEIS QUALITY,Tomatoes,Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+385040,41497348367,CLASSIC CAKE MIX,2,1,1,"Weis Markets, Inc.","Cake, Cookie & Cupcake Mixes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+384082,41497376551,MILK CHOCOLATE CHIPS,2,0,1,WEIS QUALITY,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+816008,41497431113,"STRAWBERRY FLAVORED SYRUP, STRAWBERRY",2,2,2,"Weis Markets, Inc.",Syrups & Molasses,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+432948,41497562053,ORIGINAL MILK DIPS CHOCOLATE SANDWICH COOKIES,1,2,1,WEIS QUALITY,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+393346,41498110208,"SWEET HARVEST, JELLIED CRANBERRY SAUCE, CRANBERERY",2,2,2,Aldi-Benner Company,Canned Fruit,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1064243,41498301248,"VIOLET SEA SALT, VIOLET",1,2,1,Aldi Inc.,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581523,41500989211,REAL HONEY MUSTARD DIPPING SAUCE,1,2,1,"Reckitt Benckiser, Inc.","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+562103,41512087035,CUT SPINACH,3,3,1,FIRST STREET,Canned Vegetables,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+550849,41512092640,HERB & GARLIC MARINADE,1,2,1,FIRST STREET,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+558526,41512128585,BARTLETT PEAR HALVES IN EXTRA LIGHT SYRUP,3,3,1,FIRST STREET,Canned Fruit,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+875164,41548826400,"TROPICAL BLEND BANANA BASED NON-DAIRY FROZEN FRUIT BLEND, TROPICAL BLEND",1,2,1,Dreyer's Grand Ice Cream Inc.,Other Frozen Desserts,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1072551,41565000586,"MEDIUM PICANTE SAUCE, MEDIUM PICANTE",3,1,2,"Pace Foods, Inc.","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+612856,41565249794,PACE DIPS HONEY CHIPOTLE SALSA,1,1,1,CAMPBELL SOUP COMPANY,Sauces/Spreads/Dips/Condiments,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+799869,41585039337,HONEY,3,3,1,Sweet Harvest Foods Management Company,Honey,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+837456,41625009948,COOKED SHRIMP SALAD,2,2,1,Matlaws Food Products Inc,Frozen Fish & Seafood,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1046031,41679587195,"CAFE MOCHA HIGH PROTIEN BALANCED NUTRITIONAL DRINK, CAFE MOCHA",3,2,2,"Nestle Healthcare Nutrition, Inc.","Energy, Protein & Muscle Recovery Drinks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+914712,41679681589,"VERY VANILLA BALANCED NUTRITIONAL DRINK, VERY VANILLA",3,2,2,"Nestle Healthcare Nutrition, Inc.","Energy, Protein & Muscle Recovery Drinks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+513745,41735001870,INDIAN TIKKA MASALA [SAUCE],2,2,2,MARKET 32,Other Cooking Sauces,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+448758,41735079121,BRUSSELS SPROUTS IN SWEET BUTTER SAUCE STEAMBAG,2,1,1,Price Chopper Supermarkets,Frozen Vegetables,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+513732,41735090799,LACTOSE FREE WHOLE MILK,2,2,1,Price Chopper Supermarkets,Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+400229,41789001253,"SHRIMP, RAMEN NOODLES WITH VEGETABLES",3,1,2,"Maruchan, Inc.",All Noodles,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+383029,41820810882,"MARKET STAND, FRESH PACK SANDWICH SLICER, CHIPOTLE AGAVE",1,2,1,"Bay Valley Foods, LLC","Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+433099,42187216232,CREAM SODA,3,1,2,"S. M. Flickinger Co., Inc.",Soda,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+507503,42396253325,"MOTHER'S MAID, LIGHT RED KIDNEY BEANS IN BRINE",3,1,2,"Burnette Foods, Inc.",Canned & Bottled Beans,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+822164,42400939788,"CINNAMON TOASTERS CEREAL, CINNAMON",3,3,1,"Post Consumer Brands, LLC",Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+389937,42456005055,CHOCOLATE HAZELNUT,3,1,2,"Dbc, Inc.",Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+497369,42563600266,ORGANIC BALSAMIC VINAIGRETTE,2,2,1,"United Natural Foods, Inc.",Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+760774,42800492098,Totino's Supreme Stuffed Nachos 110 Count,2,1,2,GENERAL MILLS SALES INC.,Savoury Bakery Products,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+963171,43000053782,"LEMONADE FLAVORED JAMMERS DRINK, LEMONADE",2,0,1,Kraft Heinz Foods Company,Soda,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1012083,43000078587,"GRAPE FLAVORED SPARKLING DRINK, GRAPE",2,1,1,Kraft Heinz Foods Company,Other Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1075021,43695310870,"FIERY CHORIZO QUESO FUNDIDO FILLED WITH CHORIZO, MONTEREY JACK & WHITE CHEDDAR CHEESE, POBLANO PEPPERS & SAUCE IN A BAKED PRETZEL STICK STUFFED PRETZELS, FIERY CHORIZO QUESO FUNDIDO",2,1,1,Nestle USA Inc.,Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+392384,43958102259,PURE SHEEP'S MILK CHEESE,1,1,1,Etablissements Albert Alric,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+992597,44000002251,"ORIGINAL 100% WHOLE GRAIN SNACKS, ORIGINAL",1,1,1,Nabisco Biscuit Company,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+540952,44000023737,"NABISCO, MISTER SALTY, HANDI-SNACKS, PRETZELS 'M CHEESE DIP",3,1,2,Nabisco Biscuit Company,Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+992529,44000031992,"BOLD BUFFALO & RANCH FLAVORED FILLED CRACKERS, BOLD BUFFALO & RANCH",1,1,1,Nabisco Biscuit Company,Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+540891,44000044862,"NABISCO, GOOD THINS POTATO & WHEAT SNACKS, SPINACH & GARLIC",3,1,2,Nabisco Biscuit Company,"Chips, Pretzels & Snacks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+441664,44100152429,COFFEE CREAMER,2,1,1,HP Hood LLC,Milk Additives,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+520588,44500200706,SMOKED SAUSAGE,2,0,1,Sara Lee Foods,"Sausages, Hotdogs & Brats",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1069367,46100400333,"4 CHEESE MEXICAN MONTEREY JACK, ASADERO, CHEDDAR & QUESO QUESADILLA FINE CUT SHREDDED NATURAL CHEESES, 4 CHEESE MEXICAN",2,0,1,Sargento Foods Inc,Cheese,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+542574,46567009643,BUTTERY FLAVOR NONSTICK COOKING SPRAY,3,1,2,Raley's,Vegetable & Cooking Oils,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+460861,46567030753,SOLID WHITE ALBACORE,2,0,1,Raley's,Canned Tuna,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+802811,46567513072,WILD-CAUGHT TEXAS GULF MEDIUM SHRIMP,3,1,2,Raley's,Frozen Fish & Seafood,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1017423,46600022806,NATURAL CASING FRANKS,2,1,1,Swift-Eckrich Inc.,"Sausages, Hotdogs & Brats",Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+399839,46872900031,"FAMILY, SARDINES IN TOMATO SAUCE",1,2,1,"Family Food Company, Inc.",Canned Seafood,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1004533,46900001235,PINTO BEANS WITH JALAPENO PEPPERS,1,1,1,"Conagra Brands, Inc.",Canned & Bottled Beans,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+629550,47500011136,"TURKEY PEPPERONI, TURKEY",3,1,2,BRIDGFORD,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+706990,48500000021,"FLAVORED BLEND OF APPLE, WHITE GRAPE AND RUBY RED GRAPEFRUIT JUICES FROM CONCENTRATE, RUBY RED GRAPEFRUIT",2,1,1,"Tropicana Products, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+582496,48696001529,VEGETARIAN SOY CHORIZO,2,1,1,REYNALDO'S,Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+554183,48802022387,CORN TORTILLAS,2,2,1,FIESTA,Mexican Dinner Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+501329,49022791909,"GOOD & DELISH, 100% JUICE, WHITE GRAPE",2,1,1,Walgreens Co.,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Walgreens,115 N 20th Ave,null,Hillsboro,OR,97113
+490441,49022939455,CHICK IT OUT ASSORTED JELLY BEANS,3,2,2,Walgreens Co.,Candy,Pantry,Walgreens,115 N 20th Ave,null,Hillsboro,OR,97113
+964501,49900272681,REDUCED FAT CULTURED BUTTERMILK,2,1,1,Kraft Heinz Foods Company,Milk,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1075859,50000768080,"FUDGE BROWNIE EDIBLE BATTER, FUDGE BROWNIE",1,2,1,Nestle USA Inc.,Crusts & Dough,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582403,50400085022,ENRICHED SANDWICH BREAD,1,1,1,GOLDEN BAKE,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+600856,50428329184,DRIED PLUMS PITTED PRUNES,3,1,2,"CVS Pharmacy, Inc.",Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+870480,50500045896,"HOT LOUISIANA BRAND SMOKED SAUSAGE, MED",2,2,2,"Clougherty Packing, LLC","Sausages, Hotdogs & Brats",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+722842,50700560762,"CHUNKY MUSHROOM PASTA SAUCE, CHUNKY MUSHROOM",1,1,1,"The Federated Group, Inc.",Prepared Pasta & Pizza Sauces,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+809698,51000212375,CAMPBELL'S CONDENSED SOUP VEGETABLE BEEF,2,1,1,CAMPBELL SOUP COMPANY,Prepared Soups,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+612350,51000245427,V8 V-FUSION BEVERAGE PEACH MANGO,2,2,1,CAMPBELL SOUP COMPANY,Non Alcoholic Beverages  Ready to Drink,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1014533,51500750353,"NO-STIR PEANUT BUTTER, CRUNCHY",2,0,1,The J.M. Smucker Company,Nut & Seed Butters,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+487845,51721004013,"KLOSTERMAN, WHOLE WHEAT BREAD",2,0,1,Klosterman Baking Company,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+486794,51900016103,PREMIUM COOKED HAM,3,1,2,"Land O'Frost, Inc.","Pepperoni, Salami & Cold Cuts",Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+360206,51933156005,"KURTZ, SALAD OLIVES WITH MINCED PIMIENTO",3,2,2,The Moran Group Incorporated,"Pickles, Olives, Peppers & Relishes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+477002,51933340787,ASSORTED TWIN POP,3,1,2,The Moran Group Incorporated,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1015061,52000041286,"COOL BLUE LOWER SUGAR THIRST QUENCHER, COOL BLUE",3,1,2,The Quaker Oats Co./gatorade-Van Camp,Sport Drinks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+765138,52000103120,Gatorade Thirst Quencher Glacier Cherry Sports Drink (12 - 12 Fluid Ounce) 144 Fluid Ounce 12 Pack Plastic Bottles,1,1,1,QTG,Non Alcoholic Beverages  Ready to Drink,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+774684,52000104066,BLUE CHERRY FLAVORED BOLD & INTENSE THIRST QUENCHER,2,0,1,The Quaker Oats Co./gatorade-Van Camp,Sport Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+761542,52000208917,Gatorade Frost Rain Berry (8 - 20 Fluid Ounce)  160 Fluid Ounce 8 Pack Plastic Bottle,2,0,1,QTG,Non Alcoholic Beverages  Ready to Drink,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+866644,52100040783,"SOUTHWESTERN CHICKEN & VEGETABLES RECIPE & SEASONING MIX, SOUTHWESTERN CHICKEN & VEGETABLES",1,2,1,"McCormick & Company, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+603079,52100042435,"HONEY SRIRACHA MARINADE MIX, HONEY, SRIRACHA",2,0,1,"McCormick & Company, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+794575,52100091006,MILD TACO SEASONING MIX,2,2,1,"McCormick & Company, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+391219,52851112203,GARAM MASALA SEASONING,2,2,1,Soofer Co. Inc.,Herbs & Spices,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+588192,53800631066,ORGANIC BLACK RIPE PITTED OLIVES,3,1,2,"Bell-Carter Foods, Inc.","Pickles, Olives, Peppers & Relishes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+629450,55270844335,"GRACE, SOUP MIX, PUMPKIN, PUMPKIN",2,2,1,Grace Kennedy Co. Ltd,Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582433,61500122692,STRAWBERRY LEMONADE FLAVORED BEVERAGE,3,1,2,STARS & STRIPES,Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+416543,62236567894,"ZIMMERMAN'S DAIRY, DIET ICED TEA",3,2,2,ZIMMERMAN'S DAIRY,Iced & Bottle Tea,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+890016,64144002320,"PREMIUM BEEF RAVIOLI IN TOMATO AND MEAT SAUCE, BEEF",3,1,2,"Conagra Brands, Inc.",Chili & Stew,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+756094,64144020768,"CHEF BOYARDEE Chicken Marinara Pasta, 15 OZ",3,1,2,Conagra Brands,Pasta/Noodles,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+607236,64144047178,"CHEF BOYARDEE Microwaveable Spaghetti and Meatballs, 7.5 OZ",2,0,1,Conagra Brands,Pasta/Noodles,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+606520,64144048298,"Chef Boyardee Cheesy Burger Macaroni, 15 oz, 15 OZ",2,1,1,Conagra Brands,Pasta/Noodles,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+755124,64144631117,"PAM Saut & Grill Cooking Spray - 6/17 oz., 17 OZ",2,1,1,Conagra Brands,Oils Edible,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+829324,67312007998,"VANILLA WAFERS, VANILLA",3,3,1,VOORTMAN BAKERY,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+433401,68116101011,"CHOCXO, DARK CHOCOLATE BAR",3,1,2,CHOCXO,Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+583004,70038356851,WAFFLES,2,1,1,BEST CHOICE,"Frozen Pancakes, Waffles, French Toast & Crepes",Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+872138,70038584049,HOT DOG RELISH,1,2,1,"Associated Wholesale Grocers, Inc.","Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+880452,70038591078,OLIVE OIL,2,1,1,"Associated Wholesale Grocers, Inc.",Vegetable & Cooking Oils,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1008043,70038626060,"BANANA RINGS PEPPERS, MILD",3,3,1,"Associated Wholesale Grocers, Inc.",Pre-Packaged Fruit & Vegetables,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+691638,70038640684,"ORGANIC DARK RED KIDNEY BEANS, DARK RED",3,3,1,CLEARLY,Vegetable and Lentil Mixes,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+723534,70038643845,"3 CHEESE MOZZARELLA, MONTEREY JACK & CHEDDAR THIN CRUST PIZZA, 3 CHEESE",3,3,1,ALWAYS SAVE,Pizza,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1006617,70038643852,"GREEK NONFAT YOGURT, BLACK CHERRY",2,0,1,"Associated Wholesale Grocers, Inc.",Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1013133,70038648321,"PREMIUM ICE CREAM, CHOCOLATE MARSHMALLOW",1,2,1,"Associated Wholesale Grocers, Inc.",Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+723646,70038653332,"BARBECUE FLAVORED CORN CHIPS, BARBECUE",2,2,1,ALWAYS SAVE,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553727,70074507750,VERY-HIGH-PROTEIN NUTRITION,3,1,2,PROMOTE,"Energy, Protein & Muscle Recovery Drinks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+630646,70200838123,"ITALIAN DRESSING, ITALIAN",3,1,2,T. Marzetti Company,Salad Dressing & Mayonnaise,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+776200,70245260810,FRENCH STYLE GREEN BEANS,2,1,1,OUR FAMILY,Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+886520,70253224539,FRUIT COCKTAIL IN HEAVY SYRUP,2,2,2,Nash Finch Company,Canned Fruit,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1022051,70253267796,"MEDIUM ORIGINAL SALSA, MEDIUM",3,1,2,Nash Finch Company,Dips & Salsa,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+877642,70253268106,"TOMATO PUREE, TOMATO",3,1,2,Nash Finch Company,Tomatoes,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1021363,70253463723,"CHOCOLATE COVERED RAISINS, CHOCOLATE",3,1,2,Nash Finch Company,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1021819,70253469886,"WHOLE WHEAT MACARONI PRODUCT, WHOLE GRAIN ROTINI",3,1,2,Nash Finch Company,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+589081,70253492495,DOUBLE STUFFED MINT SANDWICH CREMES CHOCOLATE SANDWICH COOKIE,3,2,2,Nash Finch Company,Cookies & Biscuits,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+1089497,70253640155,"STRAWBERRY LIGHT NONFAT YOGURT, STRAWBERRY",2,1,1,Nash Finch Company,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1089503,70253640322,"BOSTON CREAM PIE LIGHT NONFAT YOGURT, BOSTON CREAM PIE",2,0,1,Nash Finch Company,Yogurt,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+724088,70253712142,"PATRIOT POPS, RASPBERRY, LEMON, CHERRY",2,2,1,Nash Finch Company,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1059459,70253751516,"100% WHOLE WHEAT BREAD, 100% WHOLE WHEAT",1,1,1,Nash Finch Company,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+370191,70303023167,SKINLESS & BONELESS SARDINES IN TOMATO SAUCE,3,2,2,"I. Epstein & Sons, Inc.",Canned Seafood,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+498385,70404000159,CLASSIC PURE OLIVE OIL,1,1,1,"Pompeian, Inc.",Vegetable & Cooking Oils,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+646366,70411133482,"PEPPERED THIN STYLE BEEF JERKY, PEPPERED",2,1,1,Oberto Sausage Company,Other Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+797101,70560887403,CHOPPED TURNIP GREENS,2,2,2,The Pictsweet Company,Frozen Vegetables,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+846972,70560956567,3 COLOR PEPPER & ONION STRIPS,3,1,2,The Pictsweet Company,Frozen Vegetables,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+894392,70640017492,"RASPBERRY SWEET CREAM DARK CHOCOLATE CHIP LIGHT ICE CREAM, RASPBERRY SWEET CREAM DARK CHOCOLATE CHIP",3,1,2,"Wells Enterprises, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+375941,70718000784,LOBSTER BISQUE,1,1,1,BAR HARBOR,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+931572,70784003658,"CHEESE SNACKERS SINGLE SERVE SNACKS, SHARP WHITE CHEDDAR CHEESE, DRIED CRANBERRIES, ROASTED ALMONDS",2,2,1,"Tops Markets, LLC",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+929494,70784016825,"COLBY JACK MARBLED CHEESE, COLBY JACK",1,1,1,"Tops Markets, LLC",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+442293,70896062352,"WILTON, ICING DECORATIONS",2,1,1,Wilton Enterprises Inc,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+909738,70896143624,"MEDIUM GREEN CREAMY DECORATOR ICING, GREEN CREAMY",1,2,1,Wilton Industries Inc.,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+471435,70896202468,ICING DECORATIONS,1,2,1,Wilton Enterprises Inc,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+720752,70934996397,"GREEN TEA ICE CREAM WITH MOCHI BITS, GREEN TEA",2,0,1,MY/MO,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1058669,71012051007,UNBLEACHED ALL-PURPOSE FLOUR,3,1,2,"The King Arthur Flour Company, Inc.",Flours & Corn Meal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+546501,71202007029,ACAI BOWLS,2,0,1,Dole Packaged Foods Company,Other Frozen Desserts,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+486920,71203087938,ICE CREAM,2,1,2,Umpqua Dairy Products Co.,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+470113,71300010112,"RONZONI, ROTINI, ENRICHED MACARONI PRODUCT",1,1,1,New World Pasta Company,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+955105,71330601380,PREMIUM ITALIAN BREAD,3,1,2,"Bimbo Bakeries USA, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+927546,71422200125,LARGE PITTED BLACK OLIVES,2,0,1,Mario Camacho Foods LLC,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+433555,71443015029,"SWEET CANDY COMAPNY, SOUR STARS",2,0,1,Sweet Candy Company,Candy,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+960835,71475010788,LIGHT BALSAMIC VINAIGRETTE DRESSING,2,1,1,T. Marzetti Company,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1043937,71505019897,"GARDEN VEGETABLE CREAM CHEESE DIP WITH PRETZELS, GARDEN VEGETABLE CREAM CHEESE",1,2,1,"Schreiber Foods, Inc.",Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+361831,71725728081,ROASTED & SALTED PUMPKIN SEEDS,3,1,2,American Importing Co. Inc.,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+539531,71757030015,HONDASHI BONITO SOUP STOCK,1,2,1,Ajinomoto USA Inc.,Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+507726,71757056787,ORANGE CHICKEN FRIED RICE,3,1,2,Ajinomoto USA Inc.,Frozen Dinners & Entrees,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+360051,72036290458,"HARRIS TEETER, SHELLS & CHEESE",3,1,2,Harris-Teeter Inc.,Pasta Dinners,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+465802,72036706928,VINAIGRETTE,2,1,2,Harris-Teeter Inc.,Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+360286,72036764492,JASMINE RICE,2,1,1,Harris-Teeter Inc.,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+357212,72036950116,"HARRIS TEETER, FRESH FOODS MARKET, VEGETABLE CHILI",2,0,1,Harris-Teeter Inc.,Chili & Stew,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+511137,72080045301,OLD FASHIONED CHICHARRONES FRIED PORK SKINS,3,3,1,"Golden Flake Snack Foods, Inc.",Other Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+376084,72180677693,"PAGODA, MINI EGG ROLLS, PORK",1,1,1,The Schwan Food Company,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+873680,72180762726,"CHICKEN & FIRE ROASTED VEGETABLE WHOLE GRAIN CRUST PIZZA, CHICKEN & FIRE ROASTED VEGETABLE",1,1,1,The Schwan Food Company,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+420078,72220221046,"FRANZ, COOKIES, CHOCOLATE PEANUT BUTTER",2,2,1,United States Bakery,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+888496,72250020176,"CINNAMON BREAD WITH CINNAMON BURSTS, CINNAMON",3,2,2,"Flowers Foods, Inc.",Breads & Buns,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+521201,72261024163,SALTED IN-SHELL PEANUTS,3,3,1,NOT A BRANDED ITEM,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+772984,72273393134,GARBANZOS CHICK PEAS,3,2,2,"Faribault Foods, Inc.",Canned & Bottled Beans,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+993901,72290042008,TURKEY SAUSAGE PATTIES,3,3,1,"ConAgra Foods Packaged Foods, LLC","Frozen Bacon, Sausages & Ribs",Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+979203,72290732831,"FULLY COOKED SAUSAGE PATTIES, SAUSAGE",3,1,2,"ConAgra Foods Packaged Foods, LLC","Sausages, Hotdogs & Brats",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+386202,72368424552,PIZZA SAUCE,2,0,1,"George DeLallo Co., Inc.",Prepared Pasta & Pizza Sauces,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+956525,72368508610,ORGANIC WHOLE DURUM WHEAT FLOUR MACARONI PRODUCT FUSILLI,2,1,1,"George DeLallo Co., Inc.",Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+394973,72368510149,"TORTIGLIONI NO. 20, ENRICHED MACARONI PRODUCT",2,1,1,"George DeLallo Co., Inc.",Pasta by Shape & Type,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+892610,72410053112,"CAFFEINE FREE RED CREAM SODA, RED CREAM",2,1,1,Dads Root Beer Company Div,Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1044167,72554110597,"COOKIES N CREAM PREMIUM ICE CREAM SANDWICH, COOKIES 'N CREAM",2,0,1,Big Drum,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+756510,72655460010,"HEALHTY CHOICE Four Cheese Pasta Bake, 9.2 OZ",1,2,1,Conagra Brands,Dough Based Products / Meals,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+488727,72830070102,ICE CREAM,2,2,2,Tillamook County Creamery Association,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+400788,72830440028,FARMSTYLE GREEK YOGURT,2,1,1,Tillamook County Creamery Association,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+605114,72940001171,Red Gold Mama Selita's Jalapeno Ketchup 20oz,3,2,2,Red Gold,Sauces/Spreads/Dips/Condiments,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+371065,73296304367,"KEY FOOD, MINI PANCAKES, BUTTERMILK",3,1,2,"Key Food Stores Co-Operative, Inc.","Frozen Pancakes, Waffles, French Toast & Crepes",Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+844820,73416401532,CALIFORNIA WHITE BASMATI RICE,1,2,1,Wehah Farm Inc,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+902618,73430446878,"RASPBERRY LIME NATURAL SPARKLING SPRING WATER, RASPBERRY LIME",2,2,2,Nestle Waters North America Inc.,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+372403,73472001196,"FOOD FOR LIFE, EZEKIEL 4:9, SPROUTED GRAIN ENGLISH MUFFINS",2,1,2,Food For Life Baking Co Inc,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+965393,73490180262,MACAROONS TOASTED COCONUT,3,1,2,Royal Wine Corporation,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+378249,73504001156,6 QUARTER POUND BEEF PATTIES,1,2,1,BUTCHER SHOP QUALITY,Frozen Patties and Burgers,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+532925,73504200153,ITALIAN STYLE DINNER SIZE MEATBALLS,1,2,1,MAMA LUCIA,Frozen Dinners & Entrees,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+532929,73504200207,MEATBALLS,2,0,1,MAMA LUCIA,"Frozen Bacon, Sausages & Ribs",Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+959377,73570565750,"JALAPENO CHEDDAR DIP, JALAPENO CHEDDAR",2,1,1,HP Hood LLC,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+499391,73575702037,MUSTARD & SOY SAUCE FLAVORED DRESSING,3,2,2,"Mizkan America, Inc.","Oriental, Mexican & Ethnic Sauces",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+534790,73711840326,"THE WHOLE NINE GRAINS, 9 GRAIN BREAD",1,1,1,S. ROSEN'S ORGANICS,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+377884,73731004159,"MISSION, SUPER SOFT, FLOUR TORTILLAS",3,1,2,Mission Foods Inc,Mexican Dinner Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+456162,73866106841,ORGANIC WHOLE WHEAT SPAGHETTI,2,1,1,Kings Super Markets Inc,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+643138,74164300820,"PREMIUM ICE CREAM, DULCE DE LECHE",2,1,2,"Lowe's Food Stores, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+511144,74175001049,COUNTRY HARVEST HOT DOG BUNS,2,0,1,Stater Bros. Markets Inc.,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582302,74175005061,"THREE FRUIT MIXED BERRY TANGERINE, BLACKBERRY FLAVORED, AND RASPBERRY SHERBET, THREE FRUIT MIXED BERRY",2,0,1,STATER BROS.,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+473909,74175043353,FRUIT FLAVORED SNACK,3,3,1,Stater Bros. Markets Inc.,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1082359,74175131517,CALIFORNIA SUN-DRIED RAISINS,2,2,1,Stater Bros. Markets Inc.,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+803097,74175345396,PINEAPPLE TIDBITS IN PINEAPPLE JUICE,3,1,2,Stater Bros. Markets Inc.,Canned Fruit,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+675566,74175440428,"100% UNSWEETENED WHITE GRAPE JUICE FROM CONCENTRATE WITH ADDED INGREDIENTS, WHITE GRAPE",2,0,1,STATER BROS.,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+583479,74175446451,MILD CHEDDAR CHEESE,1,1,1,Stater Bros. Markets Inc.,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+449445,74175505684,CHOPPED KALE,3,2,2,Stater Bros. Markets Inc.,Frozen Vegetables,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+411248,74220009365,WATER,3,2,2,Cott Beverages Wyomissing Inc.,Water,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+539375,74785052103,WHITE & DARK CHICKEN IN WATER,2,0,1,VALLEY FRESH,Canned Meat,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+459751,74807150107,LIGHT WHIPPED TOPPING,3,1,2,White Rose Food Corp.,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1096715,75278935712,"UNCURED PEPPERONI SHREDDED MOZZARELLA, PIZZA SAUCE AND UNCURED PEPPERONI ON A CHICKEN BREAST, EGG WHITE AND CHEESE CRUST PIZZA, UNCURED PEPPERONI",1,1,1,Foster Poultry Farms,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+761730,75391968529,6 OZ IQF FLOUNDER FILLETS,3,1,2,Beaver Street Fisheries Inc.,Fish  Unprepared/Unprocessed,Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1019537,75450015966,PUMPKIN,3,1,2,"Hy-Vee, Inc.",Canned Vegetables,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+857162,75450021417,"CHICKEN FAT FREE BROTH, CHICKEN",2,2,2,"Hy-Vee, Inc.",Canned Soup,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+654846,75450063974,"PEACH SPARKLING WATER BEVERAGE, PEACH",1,2,1,"Hy-Vee, Inc.",Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+881652,75450073522,"ORANGE SLICES CANDY, ORANGE SLICES",3,1,2,"Hy-Vee, Inc.",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+728626,75450082814,"GRANOLA A BLEND OF WHOLE GRAIN OATS & WHEAT, BROWN SUGAR, RAISINS, ALMONDS & HONEY",2,0,1,HY-VEE ONE STEP,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+471676,75450094206,PARTY CHEESE CHEDDAR,1,2,1,"Hy-Vee, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+723958,75450146677,"SHARP WHITE CHEDDAR CHEESE, ALMONDS & CRANBERRIES PROTEIN SNACKS, WHITE CHEDDAR CHEESE, ALMONDS & CRANBERRIES",2,1,2,"Hy-Vee, Inc.",Lunch Snacks & Combinations,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+969041,75450199536,CRUMBLED BACON PIECES,2,1,1,"Hy-Vee, Inc.",Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+660286,75450199857,"GOURMET BLEND TRIPLE CHEDDAR A BLEND OF VERMONT SHARP CHEDDAR, WISCONSIN SHARP CHEDDAR AND NEW YORK SHARP CHEDDAR SHREDDED CHEESES",1,2,1,"Hy-Vee, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1027641,75500101038,"EXTRA MILD WING SAUCE, EXTRA MILD",2,1,1,"T. W. GARNER FOOD COMPANY, INC.","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+917430,75669101924,PREMIUM ALUBIAS CANNELLINI BEANS,1,1,1,Iberia Foods Corporation,Canned & Bottled Beans,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+398805,75810000168,"SAN-J, BROWN RICE CRACKERS, TAMARI, BROWN SESAME",1,1,1,"San-J International, Inc.",Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+703464,75925301730,"WISCONSIN PEPPER JACK MONTEREY JACK CHEESE WITH JALAPENO PEPPERS STICKS, PEPPER JACK",2,1,1,Milton G. Waldbaum Company,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+539061,75968106606,SWEET POTATO MUFFIN,3,3,1,International Commissary Corporation,Bread & Muffin Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+519935,76033101861,PANCETTA THINLY SLICED,1,1,1,Carando Inc.,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+517801,76200000959,NONFAT YOGURT,1,1,1,Dean Foods Company,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1081141,76265007207,"ASSORTED CAKE DONUTS, ASSORTED",2,1,1,Maple Donuts Inc,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1066413,76301845299,"TROPICAL TWIST FLAVORED FRUIT & VEGETABLE 100% JUICE FROM CONCENTRATE, TROPICAL TWIST",2,1,1,"Apple & Eve,  LLC","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+644346,76410900940,"LANCE, CRACKER CREATIONS, GRAHAM, CREAMY CHOCOLATE FILLING, CHOCOLATE",2,2,2,"Snyder's-Lance, Inc.",Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+420535,76500072960,CRUNCHY GUMMI EGG,2,2,1,Mount Franklin Foods LLC,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+365778,76606540493,"ASIAN GOURMET, SPICY SZECHUAN SAUCE",2,2,1,Haddon House Food Products Inc,"Oriental, Mexican & Ethnic Sauces",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1009513,76737125156,"JUICE DRINK FROM CONCENTRATE, RUBY RED GRAPEFRUIT",2,0,1,Ever Fresh Juice Co,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+420542,76740074281,"WHITMAN'S, SAMPLER, ASSORTED CHOCOLATE, PEANUTS",1,2,1,"Whitman's Candies, Inc.",Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+701698,76840002306,"CHOCOLATE CHIP COOKIE DOUGH CHUNKS, CHOCOLATE CHIP COOKIE DOUGH",3,1,2,Ben & Jerry's Homemade Inc.,Frozen Bread & Dough,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+595237,77567001696,VANILLA LIGHT ICE CREAM SWIRLED WITH HONEY,2,2,1,UNILEVER,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+846108,77567685490,"ORANGE, CHERRY AND GRAPE ICE POPS, ORANGE, CHERRY AND GRAPE",3,2,2,Good Humor-Breyers Ice Cream,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+395773,77745291871,TURKEY & BACON COBB,2,2,1,READY PAC FOODS,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+510485,77745296258,WRAP KIT,3,1,2,"Ready Pac Produce, Inc.",Prepared Wraps and Burittos,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+519940,77782003291,SMOKED CHICKEN SAUSAGE,2,1,1,"Johnsonville Sausage, L.L.C.","Pepperoni, Salami & Cold Cuts",Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+443667,77890403969,VIVE BAGUETTE FAMILY PACK,2,1,1,"Wegmans Food Markets, Inc.",Breads & Buns,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+514466,77890422922,PECAN PIE TRAIL MIX,3,1,2,"Wegmans Food Markets, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581702,78700004949,WHEAT ENGLISH MUFFINS,2,2,1,"Bimbo Bakeries USA, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1078151,78700803610,"OLD STYLE COTTAGE POTATO BREAD, OLD STYLE COTTAGE",1,1,1,"Bimbo Bakeries USA, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+842068,78742033433,ANGEL FOOD CAKE WITH STRAWBERRY ICING,1,1,1,"Wal-Mart Stores, Inc.","Cakes, Cupcakes, Snack Cakes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+456411,78742123479,LEMON MINI MUFFINS,3,2,2,"Wal-Mart Stores, Inc.","Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+565454,78742157856,CIABATTA ROLLS,2,2,2,"Wal-Mart Stores, Inc.",Breads & Buns,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+490768,78742158570,MEDIUM CHEDDAR CHEESE,3,1,2,"Wal-Mart Stores, Inc.",Cheese,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+575677,78742159973,CRACKERS,2,1,1,"Wal-Mart Stores, Inc.",Crackers & Biscotti,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+695858,78742223179,LARGE RAW SHRIMP,1,2,1,NOT A BRANDED ITEM,Frozen Fish & Seafood,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+974313,78742228372,"SUGAR FREE CHERRY FLAVORED GELATIN DESSERT, CHERRY",2,0,1,"Wal-Mart Stores, Inc.","Gelatin, Gels, Pectins & Desserts",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+566084,78742236919,SALSA VERDE,2,2,1,"Wal-Mart Stores, Inc.",Dips & Salsa,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+941732,78742347844,"HOT CHOCOLATE COMPLETE PANCAKE AND WAFFLE MIX, HOT CHOCOLATE",2,2,1,"Wal-Mart Stores, Inc.","Pancakes, Waffles, French Toast & Crepes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+602153,78742442976,ICED BROWNIE BITES,1,1,1,NOT A BRANDED ITEM,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+891116,79606020873,"EGG, SAUSAGE & CHEDDAR CHEESE HANDCRAFTED BREAKFAST BURRITOS, EGG, SAUSAGE & CHEDDAR CHEESE",2,2,2,TINA'S,"Frozen Breakfast Sandwiches, Biscuits & Meals",Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+614946,79618377705,"CHERRY APLSMK 3/16"" GF LO 15# MBG#539",2,2,2,Daily's Premium Meats LLC,Meat/Poultry/Other Animals  Prepared/Processed,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+615206,79618382440,Nugget Hardwood Smoked Honey Cured Center Cut Bacon-Layered-Gas Flushed 14/16 15# MBG#539,2,2,1,Daily's Premium Meats LLC,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+492657,79792060035,REDUCED FAT ICE CREAM BAR,2,1,2,Premium Ice Cream Co.Inc.,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+407654,79813061010,"BOURSIN, LIGHT CHEESE DIP, GARLIC & HERBS",1,2,1,Societe Commerciale Boursin,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+450586,79893093017,SORBET,1,2,1,Glencourt Inc.,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1061477,79893122977,"VANILLA ICELANDIC STYLE LOWFAT YOGURT, VANILLA",2,2,1,Glencourt Inc.,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+797769,80093100030,CARNE DE RES BEEF EMPANADILLAS,3,3,1,Productos Kikuet Inc.,Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+543845,80868002484,SWEET POTATO LITTLES,3,3,1,"DR. PRAEGER'S SENSIBLE FOODS, INC.",Frozen Prepared Sides,Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+757548,82011386755,Keebler Murray Sugar Free Cookies Lemon Creme 1oz,2,2,1,Kellogg Company US,Biscuits/Cookies (Shelf Stable),Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+939710,82657446028,"BLACK CHERRY FLAVORED SPARKLING SPRING WATER, BLACK CHERRY",3,2,2,Nestle Waters North America Inc./deer Park,Water,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+495818,83737638838,JUICE DRINK,2,0,1,Eastland Food Corporation,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1039273,83933227744,"HILCO, DESPICABLE ME CHARACTER MUG COCOA SET",2,2,1,Hilco LLC,Powdered Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+557505,84213000712,NATURAL PUMPERNICKEL WITH WHOLE RYE KERNELS,1,2,1,W. Mestemacher Gmbh,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+524061,85239000410,CUT GREEN BEANS,3,1,2,Target Stores,Frozen Vegetables,Refrigerator-Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+588153,85239016794,BLUE CORN TORTILLA CUPZ,3,2,2,Target Stores,"Chips, Pretzels & Snacks",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+583374,85239020111,CARIBBEAN-STYLE BROWN RICE WITH BLACK BEANS,2,1,1,Target Stores,"Entrees, Sides & Small Meals",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+443647,85239020715,"ARCHER FARMS, PUMPKIN SCONES",1,1,1,Target Stores,"Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+521499,85239035405,"FOUR CHEESE, WOOD-FIRED CRUST PIZZA",3,1,2,Target Stores,Pizza,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+903220,85239038093,"PEPPER JACK CHEESE, DRIED SWEETENED CRANBERRIES & SEA-SALTED ROASTED ALMONDS QUICK BITES, PEPPER JACK CHEESE, DRIED SWEETENED CRANBERRIES & SEA-SALTED ROASTED ALMONDS",1,1,1,Target Stores,Lunch Snacks & Combinations,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+918004,85239057827,CRUSHED GINGER CUBES,1,2,1,Target Stores,Frozen Vegetables,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+920246,85239088036,"CHEESE & GARLIC CROUTONS, CHEESE & GARLIC",1,2,1,Target Stores,Breads & Buns,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+434108,85239093238,"MARKET PANTRY, CREME - FILLED SANDWICH COOKIES, VANILLA & CHOCOLATE ARTIFICIALLY FLAVORED",2,2,1,Target Stores,Cookies & Biscuits,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+492287,85239142035,STRAWBERRIES & BANANA BLEND,2,0,1,Target Stores,Frozen Fruit & Fruit Juice Concentrates,Chest Freezer,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+403008,85239189740,TORTILLA SOUP MIX,3,1,2,Target Stores,Other Soups,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+521492,85239406564,BUFFALO STYLE PIZZA SAUCE,1,1,1,Target Stores,Prepared Pasta & Pizza Sauces,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+656164,85239420225,"TRIPLE CHOCOLATE CUPCAKE, WITH FUDGE FILLING",2,1,2,Target Stores,"Cakes, Cupcakes, Snack Cakes",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+495344,85239455265,"ARCHER FARMS, STRAWBERRY CHEESE DANISH",2,0,1,Target Stores,"Cakes, Cupcakes, Snack Cakes",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+470360,85239602225,GARLIC BABY KOSHER DILLS,2,0,1,Target Stores,"Pickles, Olives, Peppers & Relishes",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+424060,85239814628,BLUEBERRY NUT,2,1,1,Target Stores,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+569446,85917920184,WHOLE GREEN OLIVES,3,2,2,REGIONALI,"Pickles, Olives, Peppers & Relishes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+560030,86700660164,ORGANIC SUNFLOWER SEEDS,2,1,2,Falcon Trading Company Inc.,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+632354,87684005200,"WILD CHERRY FLAVORED JUICE DRINK BLEND FROM CONCENTRATE, WILD CHERRY",1,2,1,"Capri Sun, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+888324,87848102257,"DENALI, ""ORIGINAL"" MOOSE TRACKS VANILLA PREMIUM ICE CREAM WITH PEANUT BUTTER CUPS AND FAMOUS MOOSE TRACKS FUDGE, MOOSE TRACKS",3,3,1,Food City,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+830376,89036780001,"DARK CHOCOLATE SAUCE, AUTHENTIC COFFEEHOUSE",3,1,2,R. Torre & Co.Inc.,Syrups & Molasses,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1056583,89128842129,"SPARKLING SPRING WATER BEVERAGE, CHOCOLATE ALMOND FIZZ",2,1,1,Varni Brothers Corporation,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+508874,89396156263,"MISTIC, MANGO MANIA, JUICE DRINK, MANGO",3,1,2,Mott's LLP,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+399856,89686440133,"INDOFOOD, KARE CURRY INSTANT SEASONING MIX",3,1,2,Pt Indofood Sukses Makmur Tbk,Herbs & Spices,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1000427,92325111110,"DRESSING, GODDESS",1,2,1,"General Mills, Inc.",Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+526058,92825099550,100% ROLLED QUICK OATS,2,2,1,Brookshire Grocery Company,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553853,93966006124,ORGANIC FUEL WHEY PROTEIN POWDER,2,1,1,Cooperative Regions of Organic Producer Pools,"Energy, Protein & Muscle Recovery Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1016797,93966308693,GRASSFED ORGANIC BEEF NEW YORK STRIP STEAK,2,2,2,Cooperative Regions of Organic Producer Pools,Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+549692,94776178346,SOUR CREAM WITH CHIVES,2,1,2,"Lipari Foods Operating Company, LLC",Cream,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+456634,95411001395,CLASSIC BON BONS ICE CREAMS,2,2,1,Brothers International Desserts Inc.,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+452530,99482137304,ORGANIC WHEAT HOT DOG BUNS,2,1,2,"Whole Foods Market, Inc.",Breads & Buns,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+834620,99482413538,FUDGE BARS,2,1,1,"Whole Foods Market, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+556899,99482439781,PEARL ONIONS,3,1,2,"Whole Foods Market, Inc.",Frozen Vegetables,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+898918,99900307074,"CREAMY MILK CHOCOLATE WITH CRISPED RICE BAR, CREAMY MILK CHOCOLATE",1,1,1,"Ferrero U.S.A., Incorporated",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1077033,99900506187,"BUNCHES OF CRUNCHY MILK CHOCOLATE, BUNCHES OF CRUNCHY",3,1,2,"Ferrero U.S.A., Incorporated",Candy,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+548029,180000000000,GOURMET COOKIE DOUGH BAR,2,2,1,THE DOOZIE BAR,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+497163,186000000000,"CHIMICHURRI MARINADE, CONDIMENT, DIPPING SAUCE",2,2,2,CORDOBA FOODS LLC,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+708944,193000000000,SHELLS & CHEESE SHELL PASTA WITH A CREAMY CHEESE SAUCE DINNER,3,1,2,THAT'S SMART!,Pasta Dinners,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+903340,193000000000,PINEAPPLE SLICES IN PINEAPPLE JUICE,1,1,1,"Topco Associates, Inc.",Canned Fruit,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+539370,499000000000,SOFT & CHEWY CANDY,2,1,1,SOUR PATCH KIDS,Candy,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+463829,608000000000,SLICED PEARS IN HEAVY SYRUP,3,2,2,"Bruno's Supermarkets, Inc.",Canned Fruit,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+362731,609000000000,PEARS,2,1,1,NUTTY & FRUITY,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+812632,615000000000,TUSCAN MEDLEY,3,2,2,Panapesca USA Corp.,Frozen Fish & Seafood,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+464153,618000000000,BEEF DUMPLINGS,3,1,2,MAMA VICKY'S FOOD,Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+547590,619000000000,PATRIOTIC STARS,2,0,1,NOT A BRANDED ITEM,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+498188,620000000000,CANE SUGAR SODA,3,1,2,Jones Soda Co.,Soda,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+436846,632000000000,"RUBICON BAKERS, DOUBLE CHOCOLATE LAYER CAKE",2,0,1,"Rubicon Enterprises, Inc.","Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+399874,637000000000,"ESSENCE OF LOTUS, INSTANT SPICY BEEF BROTH",3,1,2,Dunamis Corporation,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+406290,637000000000,COCONUT ALMOND DELIGHT BAR,2,1,1,"Atkins Nutritionals, Inc.","Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+592574,637000000000,PROTEIN WAFER CRISPS,2,2,1,"Atkins Nutritionals, Inc.",Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+535973,638000000000,TENDER BRISKET BEEF JERKY,3,1,2,Culinary D'Lites,Other Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+580825,638000000000,HIGH 20G PROTEIN 5 GRAMS OF SUGAR,2,2,1,Eicotech Corporation,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+981711,642000000000,TURKEY BURGERS,2,1,1,Cargill Incorporated/Honeysuckle White,Frozen Patties and Burgers,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+825054,643000000000,"AUTHENTIC SAUSAGE + PEPPERONI CHICAGO DEEP DISH PIZZA, AUTHENTIC SAUSAGE + PEPPERONI",3,1,2,"Bravo Restaurants, Inc.",Pizza,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+953727,644000000000,"PREMIUM MUFFIN MIX, WILD MAINE BLUEBERRY",1,1,1,Pinnacle Foods Group LLC,Bread & Muffin Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1042163,645000000000,"SMOKED TURKEY BREAST AND WHITE TURKEY, SMOKED",1,1,1,Bar-S Foods Co.,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+637608,657000000000,"AMERICAN CLASSIC SAN FRANCISCO STYLE SOURDOUGH BREAD, SOURDOUGH",3,3,1,IZZIO ARTISAN BAKERY,Breads & Buns,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1050029,658000000000,"ORGANIC PROTEIN SHAKE, CREAMY CHOCOLATE FUDGE",3,2,2,The Coca-Cola Company,"Energy, Protein & Muscle Recovery Drinks",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+497496,659000000000,"METROMINT, FLAVORED WATER, CHOCOLATEMINT",2,1,1,"David Rio Coffee & Tea, Inc.",Water,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+554124,659000000000,MUMMY DUNK COOKIES,3,3,1,"Too Good Gourmet, Inc.",Cookies & Biscuits,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+779980,659000000000,CRISPY BATTERED ROCKFISH,3,2,2,"Dulcich, Inc.",Frozen Fish & Seafood,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+482592,662000000000,SMOKED BOUDIN,2,0,1,"RIVER PARISH FOODS, LLC","Sausages, Hotdogs & Brats",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+400180,666000000000,POTATO GNOCCHI,2,2,1,EMILIA,Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+623804,670000000000,"POPCORN SEASONING, BUTTER",2,1,1,"Chicago Custom Foods, LLC","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+532982,676000000000,ALOE VERA DRINK,2,1,2,ALFA VITAMINS,Plant Based Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+816942,679000000000,GLUTEN FREE PRETZEL TWISTS,2,1,1,GLUTINO,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+403683,681000000000,ORGANIC TEA,2,1,1,"Numi, Inc.",Tea Bags,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581343,681000000000,ULTIMATE SUGAR COOKIES,2,2,1,"Wal-Mart Stores, Inc.",Cookies & Biscuits,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+741182,681000000000,"VANILLA YOGURT FRUIT DIP, VANILLA YOGURT",1,1,1,"Wal-Mart Stores, Inc.",Dips & Salsa,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+894882,681000000000,PECAN PRALINE MUFFINS,2,1,1,"Wal-Mart Stores, Inc.","Croissants, Sweet Rolls, Muffins & Other Pastries",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+464188,687000000000,GRANOLA MINIS,1,1,1,MADE GOOD,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+544059,688000000000,EVERYTHING BAGELS,2,1,2,"Ahold Usa, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+572232,688000000000,FLAVORED SELTZER WATER,1,1,1,"Ahold Usa, Inc.",Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+581835,688000000000,JUICE COCKTAIL FROM CONCENTRATE,2,1,1,NOT A BRANDED ITEM,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+446261,689000000000,BLOODY MARY MIX,2,0,1,CURT'S SPECIAL RECIPE,Alcohol,Liquor Cabinet,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+464355,693000000000,LIGHTLY SWEETENED COCONUT TREAT,3,1,2,"Nutiva, Inc.",Wholesome Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+553625,694000000000,"BODYLOGIX, PROTEIN POWDER, NATURAL STRAWBERRY",3,1,2,BODYLOGIX,Meal Replacement Supplements,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+429281,696000000000,"AKKENT, TURKISH DELIGHT ANTEP FISTIKLI PISTACHIO",2,0,1,Mountain View Seeds,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+546945,697000000000,TURKISH APRICOT,2,1,1,BRAXTON PLACE LLC,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+556972,699000000000,CHEESE & SPINACH MEZZALUNA WITH ARTICHOKES,3,1,2,"Udi's Healthy Foods, LLC",Frozen Dinners & Entrees,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+854022,700000000000,WALNUTS,2,1,1,Barnard Nut Company Inc.,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+434652,702000000000,TOASTED COCONUT CHIPS,2,2,1,Ladies Golf Equipment Company,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+499232,703000000000,AUTHENTIC CORN TORTILLA CHIPS,3,1,2,Hacienda Mexican Foods L.L.C.,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+357700,705000000000,100% GRASS-FED COWS CREAMLINE YOGURT,3,1,2,MAPLE HILL CREAMERY,Yogurt,Refrigerator,Walmart,220 N Adair St,null,Cornelius,OR,97113
+917276,705000000000,"ORIGINAL BEEF SNACK BITES, ORIGINAL BEEF",3,1,2,"Hickory Foods, Inc.",Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+893668,707000000000,"GARLIC NAAN FLATBREADS, GARLIC",3,3,1,Atoria's Baking Company,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+375779,709000000000,STRAWBERRY CHEESECAKE PREMIUM ICE CREAM,3,2,2,"Meijer, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+377630,709000000000,WHOLE PEELED TOMATOES,2,2,1,"Meijer, Inc.",Tomatoes,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+417980,709000000000,"LA MOLIENDA, COCONUT CANDY",2,2,1,LA MOLIENDA,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+474865,709000000000,NON-STICK GRILLING COOKING SPRAY,2,1,1,"Meijer, Inc.",Vegetable & Cooking Oils,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+494131,709000000000,"BAKE AT HOME, SOURDOUGH BATARD",1,2,1,Concept 2 Bakers,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+504524,709000000000,"HILAND PREMIUM, FRUIT REFRESH, SPARKLING WATER BEVERAGE, WATERMELON",2,1,1,Krause Gentle Corporation,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1066529,709000000000,"HOMESTYLE RANCH CHOPPED SALAD KIT, HOMESTYLE RANCH",3,3,1,"Curation Foods, Inc.",Pre-Packaged Fruit & Vegetables,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+943954,710000000000,"SWEET CORN PUFFS, SWEET",1,1,1,Lobster Potners Ii,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+482780,711000000000,HI-PROTEIN ENERGY BAR,2,1,1,LEAN BODY,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+374141,712000000000,"LANDANA, 1000 DAYS AGED GOUDA HOLLAND CHEESE",2,0,1,"DCI Cheese Company, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+464479,712000000000,ORGANIC SALSA VERDE,2,2,1,Star Markets Co.,Dips & Salsa,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+532673,712000000000,POLE & LINE CAUGHT CHUNK WHITE ALBACORE TUNA IN WATER,3,1,2,Star Markets Co.,Canned Tuna,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+924832,712000000000,"RACLETTE SLICED CHEESE, RACLETTE",1,1,1,Saputo Cheese USA Inc. ,Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+376048,714000000000,VANILLA CARAMELS,1,1,1,"Meijer, Inc.",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+474922,715000000000,SEASONING,2,0,1,Xcell International Corp,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+456968,718000000000,ORGANIC ICE CREAM,1,2,1,Ad-Visor,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+512423,719000000000,ICE CREAM,2,2,1,"Meijer, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+623962,719000000000,ORGANIC CREAMY PEANUT SPREAD,3,3,1,"Meijer, Inc.",Nut & Seed Butters,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+428429,720000000000,"MADE IN NATURE, SUPER SNACKS, KALE CHIPS & ROSEMARY TRUFFLE",1,2,1,"Made In Nature, Inc.","Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+436166,722000000000,BLOKS ENERGY CHEWS,2,1,2,Clif Bar and Company,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+436244,722000000000,SWEET AND SALTY TRAIL MIX BAR,2,0,1,Clif Bar and Company,"Snack, Energy & Granola Bars",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+796251,722000000000,FILET MIGNON,2,2,2,"Chef's Requested Foods, Inc.",Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1071561,722000000000,"WHITE CHOCOLATE MACADAMIA NUT ENERGY BARS, WHITE CHOCOLATE MACADAMIA NUT",1,2,1,Clif Bar and Company,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+452753,723000000000,"WHOLE FOODS MARKET, BEETS WITH ORANGE AND GINGER",3,2,2,"Harry's Farmers Market, Ltd.",Canned Vegetables,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+452767,723000000000,"WHOLE FOODS MARKET, SPINACH ARTICHOKE DIP",2,1,1,"Harry's Farmers Market, Ltd.",Dips & Salsa,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+464769,723000000000,CHUNK WHITE ALBACORE TUNA IN WATER,1,2,1,"Pescado De Colima, S.A. De C.V",Canned Tuna,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+451437,725000000000,ORGANIC FOUR FRUIT REDUCED SUGAR PRESERVE,3,2,2,"Delhaize America, Inc.","Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+451452,725000000000,SPREAD,2,0,1,"Delhaize America, Inc.","Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+575383,725000000000,UPSIDE-DOWN CAKES,3,2,2,"Delhaize America, Inc.","Cakes, Cupcakes, Snack Cakes",Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+576558,725000000000,PEACH GUAVA,1,1,1,"Delhaize America, Inc.",Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+921934,726000000000,"PEPPER, LEMON",2,2,2,"Sugar 'N Spice, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+394322,727000000000,MEDIUM RIPE OLIVES,2,1,1,HAGGEN,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+430394,727000000000,"KELLY'S CANDY KITCHEN, PARTY MIX CANDY",3,1,2,T&L Distributing Co. Inc.,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+565651,731000000000,CRISPY BATTERED ALASKAN COD,2,0,1,"Aqua Star, Inc.",Frozen Fish & Seafood,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+779776,731000000000,"COCKTAIL RESERVE COOKED & PEELED SHRIMP, SAUCE",3,1,2,"Aqua Star, Inc.",Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+367894,732000000000,"THE ESSENTIAL BAKING COMPANY, ORGANIC CIABATTA",2,1,1,"Essential Foods, Inc.",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+445657,733000000000,RED VELVET 3*3 SQUARE CAKE,3,1,2,Coborn's Incorporated,"Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+446955,735000000000,FEATHER SHREDDED CHEDDAR CHEESE,3,2,2,Sysco Food Services of South Florida,Cheese,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+379897,736000000000,SEASONED PORK ST. LOUIS STYLE SPARERIBS WITH SAUCE,3,3,1,Seaboard Foods LLC,"Bacon, Sausages & Ribs",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+569564,737000000000,YOGURT PRETZELS,3,3,1,"The Fresh Market, Inc.","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+849962,738000000000,"MILD PEANUT SATAY DIPPING & ALL PURPOSE SAUCE, MILD, PEANUT SATAY",2,2,2,"Simply Asia Foods, Inc.","Oriental, Mexican & Ethnic Sauces",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+379416,742000000000,"LOWES FOODS, MARASCHINO CHERRIES",2,0,1,"Lowe's Food Stores, Inc.",Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+451602,742000000000,"LOWES FOODS, PREMIUM ICE CREAM, SEA SALT CARAMEL",3,1,2,"Lowe's Food Stores, Inc.",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+594781,742000000000,PEANUT BUTTER CREAMY,3,1,2,"Lowe's Food Stores, Inc.",Nut & Seed Butters,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+866050,744000000000,"DOUBLE FUDGE BROWNIE PROTEIN BAR, DOUBLE FUDGE BROWNIE",2,2,1,"Lifestyle Evolution, Inc.","Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+975475,744000000000,"UNSWEETENED ORGANIC COCONUTMILK, UNSWEETENED",2,2,2,"Danone US, LLC",Plant Based Milk,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1058489,744000000000,"CHOCOLATE CHIP COOKIE DOUGH FLAVORED PROTEIN BAR, CHOCOLATE CHIP COOKIE DOUGH",2,1,1,"Lifestyle Evolution, Inc.","Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+489888,745000000000,HOLIDAY DECORS CANDY,2,1,1,"Brand's Country Kitchen Supplies, Inc.",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+428473,747000000000,"GOLCHIN, HEDYSARUM WATER",2,1,1,Overseas Food Dist Inc.,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+445974,748000000000,PREMIUM BAKING BAR,2,2,1,Ghirardelli Chocolate Company,Baking Decorations & Dessert Toppings,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+493588,749000000000,"ORGANIC FRUIT JUICE BLEND LEMONADE, STRAWBERRY HONEY",1,1,1,Stewart Farms Inc.,Soda,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+465159,754000000000,REAL HICKORY SMOKE BBQ SAUCE,3,1,2,COWBOY BRAND,"Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+920132,754000000000,"PEPPER SMOKED SOCKEYE SALMON, PEPPER SMOKED",3,1,2,Colorado Boxed Beef Co.,Fish & Seafood,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+424751,755000000000,"GOOD HEALTH, KETTLE CHIPS AVOCADO OIL",3,3,1,Good Health Natural Products Inc.,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+832626,755000000000,"SWEET CHIPOTLE SWEET POTATO KETTLE STYLE CHIPS, SWEET CHIPOTLE",3,1,2,Good Health Natural Products Inc.,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+504535,759000000000,DELUXE MIX,2,1,2,Fairway Operating Corp.,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+910356,759000000000,"COLD-PRESSED PEACH & APPLE NECTAR, PEACH & APPLE",2,1,1,Fairway Operating Corp.,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+414458,760000000000,EXTRA SHARP CHEDDAR CHEESE,1,1,1,"Meijer, Inc.",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+568096,761000000000,PLAIN FLATBREAD,3,2,2,"B. Robert's Foods, Inc.",Breads & Buns,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+884296,761000000000,FAJITA GRILLED CHICKEN STRIPS,1,2,1,"B. Robert's Foods, Inc.",Cooked & Prepared,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+501824,762000000000,"EVOLUTION FRESH, EMERALD GREENS VEGETABLE AND FRUIT JUICE BLEND",2,1,1,"Evolution Fresh, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+962215,762000000000,"ORGANIC GRAPEFRUIT JUICE, GRAPEFRUIT",2,1,1,"Evolution Fresh, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+680210,763000000000,"CRACKERS, CAROLINA STYLE BARBEQUE",2,1,1,DEWEY'S BAKERY,Crackers & Biscotti,Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+434877,768000000000,"GALERIE, CRAZY CANDY CHEMISTRY POWDER, GRAPE, ORANGE & SOUR GREEN APPLE",3,2,2,Ross Acquisition Inc.,Candy,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+567601,768000000000,MILK CHOCOLATE,3,1,2,DISNEY PRINCESS,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+447097,771000000000,"MASON ST. BAKEHOUSE, SUPER SEED & FRUIT GRANOLA",1,2,1,MASON ST. BAKEHOUSE,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+392658,781000000000,"MEXICAN GRILL & CANTINA, MEDIUM SALSA",2,0,1,Truco Enterprises,Dips & Salsa,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+451228,781000000000,RAW SHRIMP,3,2,2,"C.P. Food Products, Inc.",Frozen Fish & Seafood,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+508248,781000000000,JALAPENO PEPPER KETCHUP,3,3,1,HISTORIC LYNCHBURG TENNESSEE WHISKEY,"Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+475134,783000000000,JALAPENO WHITE BEAN HUMMUS,1,1,1,"Amir Foods, Inc.",Dips & Salsa,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553033,783000000000,PEPPERONI & ITALIAN SAUSAGE PIZZA,3,1,2,NOT A BRANDED ITEM,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1020273,783000000000,MIXED FRUIT SPEARS,2,1,2,Papa John's Salads & Produce,Pre-Packaged Fruit & Vegetables,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+531831,785000000000,ITALIAN-STYLE CHICKEN RAVIOLI,3,1,2,"United Natural Foods, Inc.",Pasta by Shape & Type,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+655748,786000000000,"SALT & VINEGAR KETTLE COOKED POTATO CHIPS, SALT & VINEGAR",1,2,1,UGLIES,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+393925,787000000000,PLUMP & SWEET GOLDEN RAISINS,3,1,2,Fresh Gourmet Company,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+437200,787000000000,"NAPA VALLEY NATURALS, PINOT NOIR RESERVE WINE VINEGAR",1,1,1,Spruce Naturals LLC,Other Cooking Sauces,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+392586,790000000000,SLICED ALMONDS,2,0,1,International Foodsource,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+577832,790000000000,"TARAGUI, HERBAL TEAS, CHAMOMILE",2,2,1,"Crown Musical Industries, Inc.",Tea Bags,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553860,791000000000,PROTEIN POWDER,2,2,1,Ross Products Division,"Energy, Protein & Muscle Recovery Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+421589,800000000000,"SWEETWORKS, CELEBRATION, GUMBALLS",3,1,2,"SweetWorks Confections, LLC",Chewing Gum & Mints,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+489698,804000000000,RAW ORGANIC WHITE MULBERRIES,2,0,1,Sunfood LLC,Wholesome Snacks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+516400,810000000000,3 IN 1 DISPENSER CANDY COLLECTOR BOOKLET,3,1,2,"Radz Brands, LLC",Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+568523,810000000000,COR-PERFORMANCE WHEY PROTEIN,3,1,2,"Woodbolt Distribution, LLC","Energy, Protein & Muscle Recovery Drinks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+803949,810000000000,WATERMELON ELECTROLYTE DRINK MIX,3,3,1,"Ultima Health Products, Inc.",Powdered Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1065073,810000000000,"07 ACAI BERRY SMART ENERGY DRINK, 07 ACAI BERRY",3,3,1,"A SHOC BEVERAGE, LLC","Energy, Protein & Muscle Recovery Drinks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+367206,811000000000,GLUTEN FREE BAGUETTE GOURMET GARLIC BREAD & SUBS,2,0,1,SCHAR,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+475184,811000000000,PROTEIN COOKIES BITES,3,2,2,"Kay's Naturals, Inc.",Cookies & Biscuits,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+565746,811000000000,FREEZE-DRIED FUJI APPLES FRUIT CRISPS,2,1,1,Brothers International Food Corporation,Wholesome Snacks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+601110,811000000000,"SALTY-SWEET CRUNCHY CLUSTERS, DARK CHOCOLATE STRAWBERRY",2,2,1,PURELY ELIZABETH,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+832232,811000000000,"SEA SALT THE CRUNCHY AND WHOLESOME POPPED-CORN SNACK, SEA SALT",2,0,1,Medora Snacks LLC,"Chips, Pretzels & Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+847386,811000000000,"HONEY WAFFLE, HONEY",3,1,2,En-R-G Foods LLC,"Pancakes, Waffles, French Toast & Crepes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+480408,812000000000,BBQ CHICKEN PIZZA,2,2,1,PIZZERIA ITALIANA,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+500129,812000000000,"SODASTREAM, WATERS SPARKLING GOURMET WATER MIX, CORIANDER APPLE BLOSSOM",2,1,1,SODASTREAM,Liquid Water Enhancer,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+437327,813000000000,ORGANIC PEAS,3,2,2,"Brandstorm Inc,","Chips, Pretzels & Snacks",Pantry,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+531947,813000000000,BLUEBERRY WAFFLES,2,1,2,START RIGHT,"Frozen Pancakes, Waffles, French Toast & Crepes",Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+446459,814000000000,TOASTED WHITE BREAD ENGLISH MUFFIN,1,2,1,AUNT MILLIE'S BAKEHOUSE,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+475192,814000000000,BASMATI RICE,2,1,2,PEREG,Rice,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+398842,815000000000,COLD BREWED NON-DAIRY FROZEN DESSERT,3,1,2,The Fresh Ice Cream Company LLC,Other Frozen Desserts,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+516499,815000000000,ORGANIC POPCORN,1,1,1,Popcornopolis LLC,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+894144,815000000000,"TUTTI FRUTTI GUMBALLS, TUTTI FRUTTI",1,2,1,SCM,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+709434,816000000000,SIZZLIN' BACON SUNFLOWER SEEDS,3,2,2,BIGS,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+566561,817000000000,DARK CHOCOLATE,1,1,1,BARK THINS,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+589633,817000000000,"ALL NATURAL WHITE CHICKEN, MUSHROOMS, SUPREME SAUCE IN A PUFF PASTRY PIE",1,1,1,"Boomerang's Foods, Inc.",Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+480593,818000000000,YOGURT GUMMY CANDY WITH FRUIT JUICE,2,1,2,KERVAN USA LLC,Candy,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+508422,818000000000,FUSION WILD CAUGHT KETA SALMON TUSCAN GARDEN,2,2,1,Yihe Corporation,Frozen Fish & Seafood,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+567255,818000000000,PRE-SLICED CORNED BEEF FOR REUBENS,3,3,1,GARY'S QUICK STEAK,Other Frozen Meats,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+576578,818000000000,WHEY PROTEIN BAR,2,1,1,FIT CRUNCH,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+684042,818000000000,"CLEMENTINE MARMALADE, CLEMENTINE",3,1,2,COOK'S PANTRY,"Jam, Jelly & Fruit Spreads",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+815922,818000000000,"BROWN BUTTER ORGANIC DEEP DARK SALTED CHOCOLATE, BROWN BUTTER",3,2,2,Alter Eco Americas Inc.,Chocolate,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+923156,818000000000,"PLAIN OAT DRINK, PLAIN",3,3,1,"Chobani, Inc.",Plant Based Milk,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+930738,818000000000,"VANILLA COFFEE CREAMER, VANILLA",1,1,1,"Chobani, Inc.",Milk Additives,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1066149,818000000000,"PUMPKIN SPICE FLAVORED COFFEE CREAMER, PUMPKIN SPICE",1,2,1,"Chobani, Inc.",Milk Additives,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+568406,819000000000,SUPER SMOOTHIE REAL FRUIT + PROBIOTICS,2,2,1,LALA,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+905508,819000000000,"CHOCOLATE & SALTED CARAMEL LAVA CAKE, CHOCOLATE & SALTED CARAMEL",2,0,1,Barra Of Mendocino,Other Frozen Desserts,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+914338,819000000000,"ROSE FLAVORED KETTLE CORN, ROSE",2,1,2,"Angie's Artisan Treats, LLC","Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+518575,827000000000,BUFFALO CHICKEN DIP,3,2,2,"Renaissance Food Group, LLC",Dips & Salsa,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+384157,837000000000,UNSALTED ORGANIC BUTTER,3,2,2,TRICKLING SPRINGS ORGANIC,Butter & Spread,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+553922,839000000000,ALL-IN-ONE NUTRITIONAL SHAKE DRINK MIX,2,1,2,VEGA,"Energy, Protein & Muscle Recovery Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+741180,843000000000,"COOKIES 'N CREAM PREMIUM ICE CREAM, COOKIES 'N CREAM",3,2,2,FREEDOM'S CHOICE,Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+425122,845000000000,"JOLLY HOLIDAY, CHOCOLATE CHIP COOKIES",3,1,2,Primary Colors Design Corp,Cookies & Biscuits,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+421890,848000000000,CASHEWS IN THE RAW,2,1,1,Terrafina LLC,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+384167,850000000000,GARLIC DILL PICKLE,3,3,1,Farmhouse Culture,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+698936,850000000000,"HONEY PECAN GRANOLA, HONEY PECAN",2,2,1,KITCHFIX,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+909568,850000000000,"CONFECTIONERS POWDERED STEVIA SWEETENER BLEND, STEVIA SWEETENER",2,2,2,Pyure Brands. LLC,"Granulated, Brown & Powdered Sugar",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+911972,850000000000,"GUAVA ROSE ORGANIC NON-SPARKLING PROBIOTIC BEVERAGE, GUAVA ROSE",2,2,1,"The Living Apothecary, LLC.",Other Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1036125,850000000000,SIX CAULIFLOWER WRAPS,2,0,1,"FC Foods, LLC",Mexican Dinner Mixes,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1040325,850000000000,"TOMATO KETCHUP, TOMATO",3,3,1,"The New Primal, LLC","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1040941,850000000000,KOSHER WHOLE DILLS,2,2,2,SAPIDUS CORPORATION LLC,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+452185,851000000000,HERBED SOUP SEASONING,1,1,1,BEEKMAN 1802 FARM PANTRY,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+473691,851000000000,HONEY N' WHEAT BREAD,1,1,1,Cusano's Italian Bakery,Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+519093,851000000000,POWERFUL DRINK + ENERGY,3,2,2,NOT A BRANDED ITEM,Other Drinks,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+520181,851000000000,BELGIAN DARK CHOCOLATE BARS,1,1,1,SKINNYGIRL,Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+560562,852000000000,CRAZY GOOD ICE CREAM,2,0,1,THE COMFY COW,Ice Cream & Frozen Yogurt,Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+596347,852000000000,PROTEIN BAR,3,1,2,ORGAIN,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+875822,852000000000,"VANILLA BEST OF BOTH WORLDS TAHITIAN & MADAGASCAR VANILLA BEAN ICE CREAM SENSATIONAL, NON-BORING VANILLA, VANILLA BEST OF BOTH WORLDS",1,1,1,Coolhaus,Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+453639,853000000000,"BACK TO THE ROOTS, ORGANIC STONEGROUND FLAKES CEREAL, PURPLE CORN",1,2,1,B.T.T.R. Ventures LLC,Cereal,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+694578,853000000000,"OVERNIGHT OATS WITH COCONUT & CACAO, COCONUT & CACAO",3,1,2,BREKKI,Cereal,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+715930,853000000000,"DARK CHOCOLATE SALTED CARAMEL THINS CHOCOLATE, DARK CHOCOLATE SALTED CARAMEL THINS",2,1,1,"Divine Chocolate, Inc.",Chocolate,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+793367,853000000000,POPS DARK CHOCOLATE,1,2,1,"Soft Serve Apple, LLC",Ice Cream & Frozen Yogurt,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+884150,853000000000,"MEDIUM BUFFALO DIPPING & WING SAUCE, MEDIUM BUFFALO",2,2,2,"The New Primal, LLC","Ketchup, Mustard, BBQ & Cheese Sauce",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+945836,853000000000,STEAK,3,3,1,Pacific Island Secialties,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+404328,854000000000,"SIMPLY ASIA, INDIAN ESSENTIALS, CHICKEN BIRYANI SEASONING MIX",1,1,1,"Simply Asia Foods, Inc.","Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+489063,854000000000,PAW PATROL BREAKFAST BARS,3,1,2,Pure Growth Organic Foods LLC,"Snack, Energy & Granola Bars",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+428722,855000000000,COFFEE,3,1,2,"High Brew Coffee, Inc.",Other Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+453144,856000000000,TASTING STICKS,2,1,2,"Pairwell Foods, LLC",Breads & Buns,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+542080,856000000000,BARS,3,1,2,PERFECT BAR,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+736282,856000000000,"DOUBLE COATED CHEESE POPCORN, CHEESE",3,1,2,VALLEY POPCORN,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+900674,856000000000,"STRAWBERRY CREAMY YOGURT ALTERNATIVE, STRAWBERRY",3,1,2,Ripple Foods,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1060607,856000000000,"SOUTHWEST VEGETABLE BROTH SOUP, SOUTHWEST VEGETABLE",2,0,1,PARKS & NASH,Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+387737,857000000000,GOLDEN SELECTION RAW HONEY,3,2,2,BREITSAMER HONIG,Honey,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+542929,857000000000,PINEAPPLE COCONUT CRISPS,2,0,1,WILD CALIFORNIA,Crackers & Biscotti,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+573771,857000000000,SALAME CALABRESE,2,2,1,VERONI,"Pepperoni, Salami & Cold Cuts",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+695316,857000000000,"CHOCOLATE HAZELNUT COLLAGEN FUEL BAR, CHOCOLATE HAZELNUT",2,1,1,PRIMAL KITCHEN,"Snack, Energy & Granola Bars",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+699450,857000000000,"BLUEBERRY, ACAI & FIG SOFT BAKED REAL FIG POPPABLES, BLUEBERRY, ACAI & FIG",2,2,1,FIGGIN' FRUIT,Cookies & Biscuits,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+916142,857000000000,"JOY CRUNCHY PECANS SNACKS, JOY CRUNCHY",3,1,2,Sunuts LLC,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+969275,857000000000,PROBIOTIC DRINKABLE LOWFAT YOGURT,1,2,1,GlenOaks Farms Inc.,Yogurt,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+497355,858000000000,SUPERIOR HYDRATION SUPERDRINK,2,1,1,"Body Armor Nutrition, LLC",Sport Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+541854,858000000000,CREAMY CASHEW SPREAD,3,1,2,RED LOTUS FOODS,Nut & Seed Butters,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+576938,858000000000,"AQUA CARPATICA, NATURAL SPRING WATER",1,1,1,Valvis Holding USA Inc,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+859906,858000000000,"BANANAS FOSTER ICE CREAM, BANANA",2,1,1,"hudsonville creamery and ice cream co., LLC",Ice Cream & Frozen Yogurt,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+368105,859000000000,"BELMONT PEANUTS, VIRGINIA PEANUTS, ARTISAN SEA SALT + PEPPER",1,2,1,Belmont Peanuts of Southampton,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+522486,859000000000,MANGO BLACK TEA,2,1,2,SHERPA POWER,Iced & Bottle Tea,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+582353,859000000000,MATCHA GREEN TEA,2,1,1,LIMITLESS,Iced & Bottle Tea,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+903844,859000000000,"MAPLE ALMOND BUTTER NUT & PROTEIN SPREAD, MAPLE ALMOND BUTTER",3,1,2,Chicago Bar Company ,Nut & Seed Butters,Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+601917,860000000000,"INFUSED ALMONDS, SMOKY SERRANO",1,1,1,RECIPE 33,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+599120,861000000000,CHEESE CRACKERS,1,1,1,CHEDDIES,Flavored Snack Crackers,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+691368,863000000000,"ORGANIC AMFISSA BLACK OLIVES, AMFISSA",2,2,2,ALIVE & WELL,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+882430,865000000000,"CHERRY ROSE VINEYARD ENRICHED WATER BEVERAGE WITH RED WINE'S ANTIOXIDANTS, CHERRY ROSE",2,1,1,NAPA HILLS,Water,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+851968,867000000000,"KENTUCKY CHEESE SPREAD, BEER, MEDIUM",2,1,1,"Russell Foods,LLC",Cheese,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+454342,875000000000,GREEN BEAN SEASONING,3,2,2,Pero Family Farms Food Company LLC,"Seasoning Mixes, Salts, Marinades & Tenderizers",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+1035113,878000000000,"BOOM BOOM SHRIMP WITH SRIRACHA AIOLI, BOOM BOOM WITH SRIRACHA AIOLI",2,1,1,"Tai Foong USA, Inc.",Frozen Appetizers & Hors D'oeuvres,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+933802,880000000000,"SINGLE TURKEY AND TURKEY BACON WRAP, TURKEY AND TURKEY BACON",2,2,1,"RT Wholesale, LLC.",Prepared Wraps and Burittos,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+602776,884000000000,REDUCED FAT MILK,3,2,2,FAIRDALE FARMS,Milk,Refrigerator,Target,"2295 SE Tualatin Valley Hwy,",null,Hillsboro,OR,97123
+802187,885000000000,CHUNKY POTATO SALAD WITH EGG,2,1,1,Nash Finch Company,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+805849,885000000000,ORIGINAL BLENDED PATTIES,3,2,2,"Golden Bison Co., LLC",Frozen Patties and Burgers,Refrigerator-Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+911354,885000000000,"SPINACH & TOMATO QUICHE, SPINACH & TOMATO",3,1,2,Nash Finch Company,Other Deli,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+625644,888000000000,"COCONUT & MARSHMALLOW COVERED CHOCOLATE CAKE WITH CREAMY FILLING, COCONUT & MARSHMALLOW",2,0,1,"Hostess Brands, LLC","Cakes, Cupcakes, Snack Cakes",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+933838,888000000000,"HOT FUDGE SUNDAE BROWNIES, HOT FUDGE SUNDAE",1,2,1,"Hostess Brands, LLC","Cakes, Cupcakes, Snack Cakes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+561322,889000000000,WILD CAUGHT ALASKAN COD,2,1,2,NOT A BRANDED ITEM,Fish & Seafood,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+638770,889000000000,"SIRLOIN & BEEF PATTIES, SIRLOIN & BEEF",3,3,1,BJ's Wholesale Club / Corporate Brands,Frozen Patties and Burgers,Chest Freezer,Walmart,220 N Adair St,null,Cornelius,OR,97113
+641110,889000000000,"TOMATO & KALE BISQUE, TOMATO & KALE",2,1,2,BJ's Wholesale Club / Corporate Brands,Other Soups,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+656960,889000000000,"CHICKEN SAUSAGE & KALE LASAGNA, CHICKEN SAUSAGE & KALE",2,1,1,BJ's Wholesale Club / Corporate Brands,Other Deli,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+728180,889000000000,"FRUIT PUNCH FLAVORED ORGANIC JUICE BEVERAGE BLEND FROM CONCENTRATE, FRUIT PUNCH",3,1,2,Harvest Hill Beverage Company,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+859834,889000000000,"MINT CHOCOLATE CHUNK FLAVOR PROTEIN BAR, MINT CHOCOLATE CHUNK",3,2,2,"Quest Nutrition, LLC","Snack, Energy & Granola Bars",Pantry,Walmart,220 N Adair St,null,Cornelius,OR,97113
+846818,895000000000,"CLASSIC PRETZEL ALL BEEF DOGS, CLASSIC PRETZEL",2,1,1,"Auntie Anne's, Inc.",Frozen Appetizers & Hors D'oeuvres,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+429153,896000000000,"KATHY KAYE, POPCORN BALLS",2,2,2,Kathy Kaye Foods,"Popcorn, Peanuts, Seeds & Related Snacks",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+947206,897000000000,"TABLESIDE CAESAR SUPERFOOD DRESSING, TABLESIDE CAESAR",2,1,1,"JGF Enterprises, LLC",Salad Dressing & Mayonnaise,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+958995,898000000000,PIZZA,2,0,1,Casey's Bakery,Pizza,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+484219,899000000000,JAGGERY SQUARES,2,0,1,TAMARIND CHEF,"Granulated, Brown & Powdered Sugar",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+506380,899000000000,MOUNTAIN JUICE,1,2,1,"CAJ Food Products, Inc.","Fruit & Vegetable Juice, Nectars & Fruit Drinks",Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+538830,2030000000000,COLEMAN PORK,2,1,2,MARKETS OF MEIJER,Other Meats,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1036005,4000000000000,"CHOCO MINIS MILK CHOCOLATE, CHOCO MINIS",2,1,1,STORZ,Chocolate,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+411185,5020000000000,"FURLANI, PARMESAN GARLIC TOAST",2,2,1,FURLANI,Frozen Bread & Dough,Refrigerator-Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1076563,7500000000000,"MOCHA CAPSULES OF WHOLE MILK POWDER WITH SUGAR AND COCOA WITH INSTANT COFFEE, MOCHA",3,1,2,NESCAFE,Powdered Drinks,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+539052,7860000000000,LEMON GRASS,3,3,1,HIERBALUISA,Tea Bags,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+552385,8010000000000,MARINATED GRILLED OLIVES,1,2,1,"Supa Records, Inc.","Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+468371,8690000000000,GRAPE LEAVES,2,2,1,SERA,"Pickles, Olives, Peppers & Relishes",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+484197,8900000000000,"HALDIRAM SNACKS PVT. LTD., HALDIRAM'S, FRIED LADIES FINGER COOKED",2,1,1,HALDIRAM SNACKS PVT. LTD.,"Entrees, Sides & Small Meals",Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+403295,8940000000000,HEART OF DARKNESS CHOCOLATE,3,2,2,MAROU CHOCOLATE,Chocolate,Pantry,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+357152,9370000000000,"CARRINGTON TEA, PEPPERMINT",2,0,1,CARRINGTON TEA,Tea Bags,Pantry,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+1055171,10000000000000,"Chicken, FC Original Honey Touched 8 pc Cut, 1 bird/bag, 80 pc min",3,2,2,BRAKEBUSH BROTHERS INC.,Meat/Poultry/Other Animals  Prepared/Processed,Refrigerator-Freezer,Whole Foods Market,9940 NE Cornell Rd,null,Hillsboro,OR,97124
+762514,90100000000000,TENDERLOIN FILLET 8OZ UNG,2,1,1,Beaver Street Fisheries Inc.,Meat/Poultry/Other Animals  Unprepared/Unprocessed,Chest Freezer,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+792531,90700000000000,Pork Loin Bone In 1/8 inch trim All Natural MBG#412CPSO7,2,1,1,Seaboard Foods LLC,Meat/Poultry/Other Animals  Unprepared/Unprocessed,Refrigerator,Fred Meyer,2200 E Baseline St,null,Cornelius,OR,97113
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,`
