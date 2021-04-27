@@ -9,7 +9,7 @@ Using USDA food and brand data, this inventory tracks attributes such as where t
 This project was an opportunity to apply my database and SQL skills to parse a dataset into multiple relations efficiently as part of my Database Systems and Design course at the University of Colorado, Boulder.
 
 ## Tools
-- DataGrip - Database & SQL IDE.  This was be the main tool I use to create tables and write queries before transferring them to JupyterLab.
+- DataGrip - Database & SQL IDE.  This was the main tool I used to create tables and write queries before transferring them to JupyterLab.
 - JupyterLab + Python - Final report write-up
 - SQLAlchemy - Handles database connection and query execution in Python
 - Pandas - Used for query output, for better table visuals than SQL output.
