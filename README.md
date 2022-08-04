@@ -2,6 +2,7 @@
 by Amanda Killeen
 
 Project Presentation on [YouTube](https://youtu.be/IGDTl3qgO_E)
+Tableau Dashboard on [Tableau Public](https://public.tableau.com/views/KitchenInventory_16194031448520/KitchenInventory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Goal
 Taking the concept of reverse grocery list, where you have a list of things you normally buy and figure out what you are out of, I have built a database and dashboard showing which items I have on hand in my kitchen and where inventory is running low, and map which stores I need to visit, so that I stay within budget, don’t over purchase, and can plan meals accordingly. 
