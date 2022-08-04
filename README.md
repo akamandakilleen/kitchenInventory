@@ -2,6 +2,7 @@
 by Amanda Killeen
 
 Project Presentation on [YouTube](https://youtu.be/IGDTl3qgO_E)
+
 Tableau Dashboard on [Tableau Public](https://public.tableau.com/views/KitchenInventory_16194031448520/KitchenInventory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Goal
